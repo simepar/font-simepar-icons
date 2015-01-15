@@ -1,0 +1,118 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-4a7mxe');
+	src:url('fonts/icomoon.eot?#iefix-4a7mxe') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-4a7mxe') format('woff'),
+		url('fonts/icomoon.ttf?-4a7mxe') format('truetype'),
+		url('fonts/icomoon.svg?-4a7mxe#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-simepar"], [class*=" icon-simepar"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	display: inline-block;
+	vertical-align: top;
+	white-space: nowrap;
+	position: relative;
+	margin-right: -.16em;
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    /* padding here for text, icons replicate this using size and position:absolute - padding makes touch-target bigger */
+    padding: 0.143em;
+    /* units used in font: 1em = 2048, icons 2400 wide, so icons are 1.171875em (2400/2048). Add padding x2 to get size: */
+    height: 1.45788em;
+    width: 1.45788em;
+    font-size: 1.815em;
+    /* text hidden old-school */
+    text-align: left;
+    text-indent: -9999px;
+	/* Better Font Rendering */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* position:absolute stacks pseudo elements - extra &lt;span> in markup = 2 extra pseudo elements */
+[class^="icon-simepar"]:before,
+[class^="icon-simepar"]:after,
+[class^="icon-simepar"] span:before,
+[class^="icon-simepar"] span:after {
+  display: block;
+  position: absolute;
+  white-space: normal;
+  /* match padding above */
+  top: 0.143em;
+  left: 0.143em;
+  /* undo text hidden */
+  text-indent: 0;
+  /* inherits size from parent, ems cascade */
+  font-size: 1.0em;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  /* screenreaders */
+  speak: none;
+  /* transitions here */ }
+
+[class^="icon-simepar"]:before {
+	color: #D8D8D8;
+	content: "\e60a";
+}
+
+[class^="icon-simepar"]:after {
+	color: #ef9a01;
+}
+
+.icon-simepar-signal-lvl-1:after {
+	content: "\e600";
+}
+
+.icon-simepar-signal-lvl-2:after {
+	content: "\e601";
+}
+
+.icon-simepar-signal-lvl-3:after {
+	content: "\e602";
+}
+
+.icon-simepar-signal-lvl-4:after {
+	content: "\e603";
+}
+
+.icon-simepar-signal-lvl-5:after {
+	content: "\e604";
+}
+
+.icon-simepar-signal-lvl-6:after {
+	content: "\e605";
+}
+
+.icon-simepar-signal-lvl-7:after {
+	content: "\e606";
+}
+
+.icon-simepar-signal-lvl-8:after {
+	content: "\e607";
+}
+
+.icon-simepar-signal-lvl-9:after {
+	content: "\e608";
+}
+
+.icon-simepar-signal-lvl-10:after {
+	content: "\e609";
+}
+
+.icon-simepar-signal-lvl-0:after {
+	
+}
+
