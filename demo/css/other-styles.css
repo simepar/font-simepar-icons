@@ -38,3 +38,10 @@
 	transform: translateY(-50%);
 }
 
+[class^="fs-logo"]:after {
+	color: #ef9a01;
+}
+#logo {
+	font-size: 3em;
+}
+

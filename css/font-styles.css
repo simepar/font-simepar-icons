@@ -1,15 +1,15 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?-4a7mxe');
-	src:url('fonts/icomoon.eot?#iefix-4a7mxe') format('embedded-opentype'),
-		url('fonts/icomoon.woff?-4a7mxe') format('woff'),
-		url('fonts/icomoon.ttf?-4a7mxe') format('truetype'),
-		url('fonts/icomoon.svg?-4a7mxe#icomoon') format('svg');
+	src:url('fonts/icomoon.eot?-judm9m');
+	src:url('fonts/icomoon.eot?#iefix-judm9m') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-judm9m') format('woff'),
+		url('fonts/icomoon.ttf?-judm9m') format('truetype'),
+		url('fonts/icomoon.svg?-judm9m#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
-[class^="icon-simepar"], [class*=" icon-simepar"] {
+[class^="fs-"], [class*=" fs-"] {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -28,21 +28,20 @@
     /* padding here for text, icons replicate this using size and position:absolute - padding makes touch-target bigger */
     padding: 0.143em;
     /* units used in font: 1em = 2048, icons 2400 wide, so icons are 1.171875em (2400/2048). Add padding x2 to get size: */
-    width: 1.3em;
+    height: 1.45788em;
+    width: 1.45788em;
     font-size: 1.815em;
     /* text hidden old-school */
     text-align: left;
     text-indent: -9999px;
-	/* Better Font Rendering */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-
 /* position:absolute stacks pseudo elements - extra &lt;span> in markup = 2 extra pseudo elements */
-[class^="icon-simepar"]:before,
-[class^="icon-simepar"]:after,
-[class^="icon-simepar"] span:before,
-[class^="icon-simepar"] span:after {
+[class^="fs-"]:before,
+[class^="fs-"]:after,
+[class^="fs-"] span:before,
+[class^="fs-"] span:after {
   display: block;
   position: absolute;
   white-space: normal;
@@ -62,56 +61,69 @@
   speak: none;
   /* transitions here */ }
 
-[class^="icon-simepar"]:before {
+[class^="fs-animation-signal"]:before {
 	color: #D8D8D8;
-	content: "\e60a";
+	content: "\f51b";
 }
 
-[class^="icon-simepar"]:after {
+[class^="fs-animation-signal"]:after {
+}
+
+.fs-logo-superior:before {
+	content: "\f50f";
+	color: #ef9a01
+}
+
+.fs-logo-inferior:before {
+	content: "\f510";
+}
+
+.fs-logo:after {
+	content: "\f50f";
 	color: #ef9a01;
 }
 
-.icon-simepar-signal-lvl-1:after {
-	content: "\e600";
+.fs-logo:before {
+	content: "\f510";
 }
 
-.icon-simepar-signal-lvl-2:after {
-	content: "\e601";
+.fs-animation-signal-lvl-1:after {
+	content: "\f511";
 }
 
-.icon-simepar-signal-lvl-3:after {
-	content: "\e602";
+.fs-animation-signal-lvl-2:after {
+	content: "\f512";
 }
 
-.icon-simepar-signal-lvl-4:after {
-	content: "\e603";
+.fs-animation-signal-lvl-3:after {
+	content: "\f513";
 }
 
-.icon-simepar-signal-lvl-5:after {
-	content: "\e604";
+.fs-animation-signal-lvl-4:after {
+	content: "\f514";
 }
 
-.icon-simepar-signal-lvl-6:after {
-	content: "\e605";
+.fs-animation-signal-lvl-5:after {
+	content: "\f515";
 }
 
-.icon-simepar-signal-lvl-7:after {
-	content: "\e606";
+.fs-animation-signal-lvl-6:after {
+	content: "\f516";
 }
 
-.icon-simepar-signal-lvl-8:after {
-	content: "\e607";
+.fs-animation-signal-lvl-7:after {
+	content: "\f517";
 }
 
-.icon-simepar-signal-lvl-9:after {
-	content: "\e608";
+.fs-animation-signal-lvl-8:after {
+	content: "\f518";
 }
 
-.icon-simepar-signal-lvl-10:after {
-	content: "\e609";
+.fs-animation-signal-lvl-9:after {
+	content: "\f519";
 }
 
-.icon-simepar-signal-lvl-0:after {
-	
+.fs-animation-signal-lvl-10:after {
+	content: "\f51a";
 }
 
