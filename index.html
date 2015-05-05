@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Font-simepar-icons : The iconic font and CSS toolkit for Simepar">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Font-simepar-icons</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/simepar/font-simepar-icons">View on GitHub</a>
+
+          <h1 id="project_title">Font-simepar-icons</h1>
+          <h2 id="project_tagline">The iconic font and CSS toolkit for Simepar</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/simepar/font-simepar-icons/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/simepar/font-simepar-icons/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <p><img src="simepar.png" alt="Alt text"></p>
+
+<h2>
+<a id="animated-signal-icon" class="anchor" href="#animated-signal-icon" aria-hidden="true"><span class="octicon octicon-link"></span></a>Animated Signal Icon</h2>
+
+<p>(C) Copyleft SIMEPAR - Sistema Meteorológico do Paraná . See LICENSE.txt for more details</p>
+
+<h2>
+<a id="what-is-it-about" class="anchor" href="#what-is-it-about" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is it about?</h2>
+
+<p>Animated signal icon implements the concept of icon stacking, where it's possible to change more than one color in an icon. In addition, it can be animated by using javascript.</p>
+
+<h2>
+<a id="getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting started</h2>
+
+<p>To get these icons up and running it's firstly necessary to download them from Github. When it's done, there are only two steps remaining:</p>
+
+<p>1- CSS: Add the font-styles.css into your project with the fonts folder. A single icon is defined by using CSS as:</p>
+
+<pre><code>.icon-simepar-signal-lvl-6:before {
+    content: "\e60a";
+}
+.icon-simepar-signal-lvl-6:after {
+    content: "\e605";
+}
+</code></pre>
+
+<p>2- HTML: Using the span tag you can add the icons' classes:</p>
+
+<pre><code>&lt;span class="icon-simepar-signal-lvl-6"&gt;&lt;/span&gt;
+</code></pre>
+
+<p><img src="signal-icon.jpg" alt="Alt text"></p>
+
+<p>Notice that the icon names differ only by a number, from 1 to 0, representing the amount of bars in the signal. The lvl-0 is supposed to be used as background. Doing the above steps, a static icon will be created, to make it animated it's still remaining:</p>
+
+<p>1- Give an ID to the span:</p>
+
+<div class="highlight highlight-HTML"><pre>&lt;<span class="pl-ent">span</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>icon-simepar-signal-lvl-6 front<span class="pl-pds">"</span></span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">"</span>signal-current-lvl<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">span</span>&gt;</pre></div>
+
+<p>2- In the javascript code, get its id and then change the class where it's needed:</p>
+
+<div class="highlight highlight-javascript"><pre><span class="pl-k">var</span> signal_icon <span class="pl-k">=</span> <span class="pl-c1">document</span>.<span class="pl-c1">getElementById</span>(<span class="pl-s"><span class="pl-pds">'</span>signal-current-lvl<span class="pl-pds">'</span></span>),
+  desired_level <span class="pl-k">=</span> <span class="pl-c1">7</span>;
+signal_icon.<span class="pl-c1">className</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>icon-aev-signal-lvl-<span class="pl-pds">'</span></span> <span class="pl-k">+</span> desired_level <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span> front<span class="pl-pds">'</span></span>;</pre></div>
+
+<p>As the icons are fonts, it's possible to change their color, size and so on through the CSS code. Since the background and the front layer are separated fonts, it's also possible to have different colors on them.</p>
+
+<h2>
+<a id="how-it-was-made" class="anchor" href="#how-it-was-made" aria-hidden="true"><span class="octicon octicon-link"></span></a>How it was made?</h2>
+
+<p>Inkscape (<a href="https://inkscape.org">https://inkscape.org</a>) was used to draw the icons, the app icoMoon to convert them from svg into fonts (<a href="https://icomoon.io/">https://icomoon.io/</a>) and some styles from <a href="http://css-tricks.com/stackicons-icon-fonts/">http://css-tricks.com/stackicons-icon-fonts/</a> were added.</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Font-simepar-icons maintained by <a href="https://github.com/simepar">simepar</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
