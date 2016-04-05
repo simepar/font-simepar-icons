@@ -87,6 +87,10 @@
 	content: "\f510";
 }
 
+.fs-weather-station:after {
+	content: "\e901";
+}
+
 .fs-animation-signal-lvl-1:after {
 	content: "\f511";
 }
@@ -126,4 +130,3 @@
 .fs-animation-signal-lvl-10:after {
 	content: "\f51a";
 }
-
