@@ -16,7 +16,7 @@
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	line-height: 1;
+	line-height: 0.3;
 	display: inline-block;
 	vertical-align: top;
 	white-space: nowrap;
@@ -26,7 +26,7 @@
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     /* padding here for text, icons replicate this using size and position:absolute - padding makes touch-target bigger */
-    /*padding: 0.143em;*/
+    padding: 0.2em 0;
     /* units used in font: 1em = 2048, icons 2400 wide, so icons are 1.171875em (2400/2048). Add padding x2 to get size: */
     /*height: 1.45788em;
     width: 1.45788em;*/
@@ -76,15 +76,16 @@
 
 .fs-logo-inferior:before {
 	content: "\f510";
+
 }
 
 .fs-logo:after {
-	content: "\f50f";
-	color: #ef9a01;
+	content: "\f510";
 }
 
 .fs-logo:before {
-	content: "\f510";
+	content: "\f50f";
+	color: #ef9a01;
 }
 
 .fs-weather-station:after {
