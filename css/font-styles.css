@@ -21,15 +21,15 @@
 	vertical-align: top;
 	white-space: nowrap;
 	position: relative;
-	margin-right: -.16em;
+	/*margin-right: -.16em;*/
 	-moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     /* padding here for text, icons replicate this using size and position:absolute - padding makes touch-target bigger */
-    padding: 0.143em;
+    /*padding: 0.143em;*/
     /* units used in font: 1em = 2048, icons 2400 wide, so icons are 1.171875em (2400/2048). Add padding x2 to get size: */
-    height: 1.45788em;
-    width: 1.45788em;
+    /*height: 1.45788em;
+    width: 1.45788em;*/
     font-size: 1.815em;
     /* text hidden old-school */
     text-align: left;
@@ -43,11 +43,11 @@
 [class^="fs-"] span:before,
 [class^="fs-"] span:after {
   display: block;
-  position: absolute;
+  /*position: absolute;*/
   white-space: normal;
   /* match padding above */
   top: 0.143em;
-  left: 0.143em;
+  /*left: 0.143em;*/
   /* undo text hidden */
   text-indent: 0;
   /* inherits size from parent, ems cascade */
