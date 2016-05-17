@@ -16,7 +16,7 @@
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	line-height: 0.3;
+	line-height: 0.0;
 	display: inline-block;
 	vertical-align: top;
 	white-space: nowrap;
@@ -66,8 +66,8 @@
 	content: "\f51b";
 }
 
-[class^="fs-animation-signal"]:after {
-}
+/*[class^="fs-animation-signal"]:after {
+}*/
 
 .fs-logo-superior:before {
 	content: "\f50f";
@@ -88,8 +88,14 @@
 	color: #ef9a01;
 }
 
+.fs-weather-common:after {
+    content: "\e900";
+}
+.fs-weather-hydro:after {
+    content: "\e901";
+}
 .fs-weather-station:after {
-	content: "\e901";
+    content: "\e902";
 }
 
 .fs-animation-signal-lvl-1:after {
