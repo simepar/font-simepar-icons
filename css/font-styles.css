@@ -88,6 +88,10 @@
 	color: #ef9a01;
 }
 
+.fs-weather-lightning:after {
+    content: "\e903";
+}
+
 .fs-weather-common:after {
     content: "\e900";
 }
