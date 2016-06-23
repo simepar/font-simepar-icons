@@ -1,3 +1,8 @@
+.margin{
+	    margin: 20px 0 20px 0;
+			text-align: center;
+}
+
 @font-face {
 	font-family: 'icomoon';
 	src:url('fonts/icomoon.eot?-judm9m');
@@ -16,20 +21,20 @@
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	line-height: 1;
+	line-height: 0.0;
 	display: inline-block;
 	vertical-align: top;
 	white-space: nowrap;
 	position: relative;
-	margin-right: -.16em;
+	/*margin-right: -.16em;*/
 	-moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     /* padding here for text, icons replicate this using size and position:absolute - padding makes touch-target bigger */
-    padding: 0.143em;
+    padding: 0.2em 0;
     /* units used in font: 1em = 2048, icons 2400 wide, so icons are 1.171875em (2400/2048). Add padding x2 to get size: */
-    height: 1.45788em;
-    width: 1.45788em;
+    /*height: 1.45788em;
+    width: 1.45788em;*/
     font-size: 1.815em;
     /* text hidden old-school */
     text-align: left;
@@ -43,11 +48,11 @@
 [class^="fs-"] span:before,
 [class^="fs-"] span:after {
   display: block;
-  position: absolute;
+  /*position: absolute;*/
   white-space: normal;
   /* match padding above */
   top: 0.143em;
-  left: 0.143em;
+  /*left: 0.143em;*/
   /* undo text hidden */
   text-indent: 0;
   /* inherits size from parent, ems cascade */
@@ -66,8 +71,8 @@
 	content: "\f51b";
 }
 
-[class^="fs-animation-signal"]:after {
-}
+/*[class^="fs-animation-signal"]:after {
+}*/
 
 .fs-logo-superior:before {
 	content: "\f50f";
@@ -76,15 +81,30 @@
 
 .fs-logo-inferior:before {
 	content: "\f510";
+
 }
 
 .fs-logo:after {
+	content: "\f510";
+}
+
+.fs-logo:before {
 	content: "\f50f";
 	color: #ef9a01;
 }
 
-.fs-logo:before {
-	content: "\f510";
+.fs-weather-lightning:after {
+    content: "\e92c";
+}
+
+.fs-weather-common:after {
+    content: "\e929";
+}
+.fs-weather-hydro:after {
+    content: "\e92a";
+}
+.fs-weather-station:after {
+    content: "\e92b";
 }
 
 .fs-animation-signal-lvl-1:after {
@@ -127,3 +147,26 @@
 	content: "\f51a";
 }
 
+
+.fs-chart-area:before {
+    content: "\e901";
+}
+.fs-chart-areaspline:before {
+    content: "\e905";
+}
+.fs-chart-bar:before {
+    content: "\e909";
+}
+.fs-chart-line:before {
+    content: "\e913";
+}
+.fs-chart-point:before {
+    content: "\e917";
+}
+.fs-chart-spline:before {
+    content: "\e925";
+}
+
+.fs-icon-dashboard:before {
+    content: "\e900";
+}
