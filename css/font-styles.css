@@ -1,3 +1,8 @@
+.margin{
+	    margin: 20px 0 20px 0;
+			text-align: center;
+}
+
 @font-face {
 	font-family: 'icomoon';
 	src:url('fonts/icomoon.eot?-judm9m');
@@ -89,17 +94,17 @@
 }
 
 .fs-weather-lightning:after {
-    content: "\e903";
+    content: "\e92c";
 }
 
 .fs-weather-common:after {
-    content: "\e900";
+    content: "\e929";
 }
 .fs-weather-hydro:after {
-    content: "\e901";
+    content: "\e92a";
 }
 .fs-weather-station:after {
-    content: "\e902";
+    content: "\e92b";
 }
 
 .fs-animation-signal-lvl-1:after {
@@ -140,4 +145,28 @@
 
 .fs-animation-signal-lvl-10:after {
 	content: "\f51a";
+}
+
+
+.fs-chart-area:before {
+    content: "\e901";
+}
+.fs-chart-areaspline:before {
+    content: "\e905";
+}
+.fs-chart-bar:before {
+    content: "\e909";
+}
+.fs-chart-line:before {
+    content: "\e913";
+}
+.fs-chart-point:before {
+    content: "\e917";
+}
+.fs-chart-spline:before {
+    content: "\e925";
+}
+
+.fs-icon-dashboard:before {
+    content: "\e900";
 }
