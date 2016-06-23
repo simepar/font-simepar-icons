@@ -3,6 +3,8 @@
 
 (C) Copyleft SIMEPAR - Sistema Meteorológico do Paraná. See LICENSE.txt for more details
 
+Page: http://simepar.github.io/font-simepar-icons/
+
 ## What is it about?
 Font Simpear Icons is a package that has three main icon types: 
 ## Stacking Icons
