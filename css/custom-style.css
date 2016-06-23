@@ -48,8 +48,8 @@ body {
     color: #000;
    background: ##e0ac2a;
  }
- .navbar .nav > .active > a, 
- .navbar .nav > .active > a:hover, 
+ .navbar .nav > .active > a,
+ .navbar .nav > .active > a:hover,
  .navbar .nav > .active > a:focus {
       color: #D3DADE;
       background: #e0ac2a;
@@ -58,9 +58,9 @@ body {
   color:#D3DADE;
  }
 
-.navbar .nav> li.dropdown.active.open > a, 
+.navbar .nav> li.dropdown.active.open > a,
 .navbar .nav> li.dropdown.active.open > ul.dropdown-menu a:hover,
-.navbar .nav> li.dropdown.open > a, 
+.navbar .nav> li.dropdown.open > a,
 .navbar .nav> li.dropdown.open > ul.dropdown-menu a:hover
 {
   color: #D3DADE;
