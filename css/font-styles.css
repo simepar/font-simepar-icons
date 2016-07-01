@@ -35,7 +35,7 @@
     /* units used in font: 1em = 2048, icons 2400 wide, so icons are 1.171875em (2400/2048). Add padding x2 to get size: */
     /*height: 1.45788em;
     width: 1.45788em;*/
-    font-size: 1.815em;
+    font-size: 2.815em;
     /* text hidden old-school */
     text-align: left;
     text-indent: -9999px;
