@@ -1,0 +1,47 @@
+.button-gray, .gray {
+	color: #D8D8D8 ;
+}
+
+.button-orange, .orange {
+	color: #ef9a01;
+}
+#content{
+	height: 20em;
+}
+
+#animation {
+	font-size: 4em;
+	height: 2.5em;
+	text-align: center;
+}
+
+#speed-current-lvl {
+	float:left;
+	font-size: 20em;
+}
+
+#controllers{
+	height: 200px;
+	padding-left: 75px;
+}
+
+#minus-sign {
+	float:left;
+	font-size: 7em;
+	top: 50%;
+	transform: translateY(-50%);
+}
+#plus-sign {
+	float:left;
+	font-size: 7em;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+[class^="fs-logo"]:after {
+	color: #ef9a01;
+}
+#logo {
+	font-size: 3em;
+}
+
