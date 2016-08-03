@@ -29,13 +29,19 @@
         }
 
         #simepar-logo {
-            margin-right: 5%;
-            margin-top: 1.5%;
             color: white;
         }
         
-        .row > h2 {
-            padding-left: 15px;
+        #animated_signal_header > span {
+            font-size: 300px;
+        }
+        
+        #weatherIcons, #generalIcons, #chartIcons, #animatedIcons {
+            white-space: nowrap;
+        }
+        
+        [class^="fs-"], [class*=" fs-"] {
+            color: rgb(99, 99, 99);
         }
         
     </style>
@@ -45,222 +51,219 @@
 
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
-                aria-controls="navbar">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
                 <a class="navbar-brand" target="_blank" href="https://github.com/simepar/font-simepar-icons">Font Simepar Icons</a>
-            </div>
-            <a href="http://simepar.br" target="_blank"><span id="simepar-logo" class="fs-logo pull-right"></span></a>
+                <a href="http://simepar.br" target="_blank"><span id="simepar-logo" class="fs-logo pull-right"></span></a>            
         </div>
     </nav>
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
         <div class="container">
-            <h1>Font Simepar Icons</h1>
-            <p>The iconic font and CSS toolkit for Simepar.</p>
-            <!--<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>-->
+            <div class="row">
+                <div class="col-lg-8 col-xs-12">
+                    <h1>Font Simepar Icons</h1>
+                    <p>The iconic font and CSS toolkit for Simepar.</p>
+                    <!--<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>-->
+                </div>
+                <div class="col-lg-4 col-xs-12">
+                    <div id="animated_signal_header" class="pull-right"></div>
+                </div>
+            </div>
         </div>
     </div>
 
     <div class="container">
         <div class="row icons-list" id="weatherIcons">
-            <h2>Weather Icons</h2>
-            <div class="col-lg-3 margin">
-                <div class="fs-weather-common"></div>
-                <div>fs-weather-common</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
-                <i class="fs-weather-hydro"></i>
-                <div>fs-weather-hydro</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
-                <div class="fs-weather-station"></div>
-                <div>fs-weather-station</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
-                <div class="fs-weather-lightning"></div>
-                <div>fs-weather-lightning</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
-                <div class="fs-weather-leaf-wet"></div>
-                <div>fs-weather-leaf-wet</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
-                <div class="fs-weather-level"></div>
-                <div>fs-weather-level</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
-                <div class="fs-weather-preciptation"></div>
-                <div>fs-weather-precipitation</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
-                <div class="fs-weather-pressure"></div>
-                <div>fs-weather-pressure</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
-                <div class="fs-weather-solar-radiation"></div>
-                <div>fs-weather-solar-radiation</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
-                <div class="fs-weather-wind"></div>
-                <div>fs-weather-wind</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
-                <div class="fs-weather-wind-direction"></div>
-                <div>fs-weather-wind-direction</div>
-            </div>
-            <!-- /.col-lg-3 margin -->
-
+                <h2>Weather Icons</h2>
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <div class="fs-weather-common"></div>
+                    <div>fs-weather-common</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <i class="fs-weather-hydro"></i>
+                    <div>fs-weather-hydro</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <div class="fs-weather-station"></div>
+                    <div>fs-weather-station</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <div class="fs-weather-lightning"></div>
+                    <div>fs-weather-lightning</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <div class="fs-weather-leaf-wet"></div>
+                    <div>fs-weather-leaf-wet</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <div class="fs-weather-level"></div>
+                    <div>fs-weather-level</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <div class="fs-weather-preciptation"></div>
+                    <div>fs-weather-precipitation</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <div class="fs-weather-pressure"></div>
+                    <div>fs-weather-pressure</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <div class="fs-weather-solar-radiation"></div>
+                    <div>fs-weather-solar-radiation</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <div class="fs-weather-wind"></div>
+                    <div>fs-weather-wind</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+                <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                    <div class="fs-weather-wind-direction"></div>
+                    <div>fs-weather-wind-direction</div>
+                </div>
+                <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
         </div>
         <!-- .row -->
 
         <div class="row icons-list" id="generalIcons">
             <h2>General Icons</h2>
-            <div class="col-lg-3 margin">
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-icon-dashboard"></div>
                 <div>fs-icon-dashboard</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-icon-dashboard2"></div>
                 <div>fs-icon-dashboard2</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-icon-lightning"></div>
                 <div>fs-icon-lightning</div>
             </div>
-            <!-- /.col-lg-3 margin -->
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
         </div>
         <!-- .row -->
 
         <div class="row icons-list" id="chartIcons">
             <h2>Chart Icons</h2>
-            <div class="col-lg-3 margin">
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-chart-point"></div>
                 <div>fs-chart-point</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-chart-bar"></div>
                 <div>fs-chart-bar</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-chart-line"></div>
                 <div>fs-chart-line</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-chart-spline"></div>
                 <div>fs-chart-spline</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-chart-area"></div>
                 <div>fs-chart-area</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-chart-areaspline"></div>
                 <div>fs-chart-areaspline</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-chart-trend-down"></div>
                 <div>fs-chart-trend-down</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-chart-trend-up"></div>
                 <div>fs-chart-trend-up</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-chart-distance"></div>
                 <div>fs-chart-distance</div>
             </div>
-            <!-- /.col-lg-3 margin -->
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
         </div>
         <!-- .row -->
 
         <div class="row icons-list" id="animatedIcons">
             <h2>Animated Icons</h2>
-            <div class="col-lg-3 margin">
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-11"></div>
                 <div>fs-animation-signal-lvl-11</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-1"></div>
                 <div>fs-animation-signal-lvl-1</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-2"></div>
                 <div>fs-animation-signal-lvl-2</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-3"></div>
                 <div>fs-animation-signal-lvl-3</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-4"></div>
                 <div>fs-animation-signal-lvl-4</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-5"></div>
                 <div>fs-animation-signal-lvl-5</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-6"></div>
                 <div>fs-animation-signal-lvl-6</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-7"></div>
                 <div>fs-animation-signal-lvl-7</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-8"></div>
                 <div>fs-animation-signal-lvl-8</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-9"></div>
                 <div>fs-animation-signal-lvl-9</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-animation-signal-lvl-10"></div>
                 <div>fs-animation-signal-lvl-10</div>
             </div>
-            <!-- /.col-lg-3 margin -->
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
             
-            <div class="col-lg-3 margin">
-                <div class="fs-animation-signal-lvl-10"></div>
-                <div>Animated</div>
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                <div id="animated_signal"></div>
+                <div>Animated Signal</div>
             </div>
         </div>
         <!-- .row -->
@@ -268,21 +271,21 @@
 
         <div class="row icons-list" id="simeparLogo">
             <h2>Simepar Logo</h2>
-            <div class="col-lg-3 margin">
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-logo-superior"></div>
                 <div>fs-logo-superior</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-logo-inferior"></div>
                 <div>fs-logo-inferior</div>
             </div>
-            <!-- /.col-lg-3 margin -->
-            <div class="col-lg-3 margin">
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <span class="fs-logo"></span>
                 <div>fs-logo</div>
             </div>
-            <!-- /.col-lg-3 margin -->
+            <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
         </div>
         <!-- .row -->
 
@@ -298,6 +301,34 @@
     <!-- Third party JS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    
+    <script>
+        var sinal = $('#animated_signal');
+        sinal.empty();
+            
+        var sinalHeader = $('#animated_signal_header');
+        sinalHeader.empty();
+            
+        var icon = document.createElement('span');
+        icon.className = 'fs-animation-signal-lvl-11';
+        icon.id = "signal-level";
+        sinal.append(icon);
+        
+        var iconHeader = document.createElement('span');
+        iconHeader.className = 'fs-animation-signal-lvl-11';
+        iconHeader.id = "signal-level-header";
+        sinalHeader.append(iconHeader);
+            
+        var i = 1;
+        setInterval(function () {
+            icon.className = 'fs-animation-signal-lvl-' + i;
+            iconHeader.className = 'fs-animation-signal-lvl-' + i;
+            i++;
+            
+            if (i == 11) i = 0;
+        }, 1000);
+        
+    </script>
 </body>
 
 </html>
