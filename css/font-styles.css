@@ -198,3 +198,10 @@
 .fs-icon-lightning:before {
     content: "\e904";
 }
+
+.fs-icon-line:before {
+  content: "\e916";
+}
+.fs-icon-polygon:before {
+  content: "\e918";
+}

@@ -31,19 +31,19 @@
         #simepar-logo {
             color: white;
         }
-        
+
         #animated_signal_header > span {
             font-size: 300px;
         }
-        
+
         #weatherIcons, #generalIcons, #chartIcons, #animatedIcons {
             white-space: nowrap;
         }
-        
+
         [class^="fs-"], [class*=" fs-"] {
             color: rgb(99, 99, 99);
         }
-        
+
     </style>
 </head>
 
@@ -52,7 +52,7 @@
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
                 <a class="navbar-brand" target="_blank" href="https://github.com/simepar/font-simepar-icons">Font Simepar Icons</a>
-                <a href="http://simepar.br" target="_blank"><span id="simepar-logo" class="fs-logo pull-right"></span></a>            
+                <a href="http://simepar.br" target="_blank"><span id="simepar-logo" class="fs-logo pull-right"></span></a>
         </div>
     </nav>
 
@@ -148,6 +148,14 @@
             <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div class="fs-icon-lightning"></div>
                 <div>fs-icon-lightning</div>
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                <div class="fs-icon-line"></div>
+                <div>fs-icon-line</div>
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-12 margin">
+                <div class="fs-icon-polygon"></div>
+                <div>fs-icon-polygon</div>
             </div>
             <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
         </div>
@@ -260,7 +268,7 @@
                 <div>fs-animation-signal-lvl-10</div>
             </div>
             <!-- /.col-md-2 col-sm-4 col-xs-12 margin -->
-            
+
             <div class="col-md-2 col-sm-4 col-xs-12 margin">
                 <div id="animated_signal"></div>
                 <div>Animated Signal</div>
@@ -301,33 +309,33 @@
     <!-- Third party JS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    
+
     <script>
         var sinal = $('#animated_signal');
         sinal.empty();
-            
+
         var sinalHeader = $('#animated_signal_header');
         sinalHeader.empty();
-            
+
         var icon = document.createElement('span');
         icon.className = 'fs-animation-signal-lvl-11';
         icon.id = "signal-level";
         sinal.append(icon);
-        
+
         var iconHeader = document.createElement('span');
         iconHeader.className = 'fs-animation-signal-lvl-11';
         iconHeader.id = "signal-level-header";
         sinalHeader.append(iconHeader);
-            
+
         var i = 1;
         setInterval(function () {
             icon.className = 'fs-animation-signal-lvl-' + i;
             iconHeader.className = 'fs-animation-signal-lvl-' + i;
             i++;
-            
+
             if (i == 11) i = 0;
         }, 1000);
-        
+
     </script>
 </body>
 
