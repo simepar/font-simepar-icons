@@ -205,3 +205,10 @@
 .fs-icon-polygon:before {
   content: "\e918";
 }
+
+.fs-weather-ampacity2:before {
+  content: "\e912";
+}
+.fs-weather-ampacity:before {
+  content: "\e914";
+}
