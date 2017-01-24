@@ -93,122 +93,132 @@
 	color: #ef9a01;
 }
 
-.fs-weather-lightning:after {
-    content: "\e92c";
-}
-.fs-weather-common:after {
-    content: "\e929";
-}
-.fs-weather-hydro:after {
-    content: "\e92a";
-}
-.fs-weather-station:after {
-    content: "\e92b";
-}
-.fs-animation-signal-lvl-1:after {
-	content: "\f511";
-}
-.fs-animation-signal-lvl-2:after {
-	content: "\f512";
-}
-.fs-animation-signal-lvl-3:after {
-	content: "\f513";
-}
-.fs-animation-signal-lvl-4:after {
-	content: "\f514";
-}
-.fs-animation-signal-lvl-5:after {
-	content: "\f515";
-}
-.fs-animation-signal-lvl-6:after {
-	content: "\f516";
-}
-.fs-animation-signal-lvl-7:after {
-	content: "\f517";
-}
-.fs-animation-signal-lvl-8:after {
-	content: "\f518";
-}
-.fs-animation-signal-lvl-9:after {
-	content: "\f519";
-}
-.fs-animation-signal-lvl-10:after {
-	content: "\f51a";
-}
-.fs-chart-area:before {
-    content: "\e901";
-}
-.fs-chart-areaspline:before {
-    content: "\e905";
-}
-.fs-chart-bar:before {
-    content: "\e909";
-}
-.fs-chart-line:before {
-    content: "\e913";
-}
-.fs-chart-point:before {
-    content: "\e917";
-}
-.fs-chart-spline:before {
-    content: "\e925";
-}
-.fs-icon-dashboard:before {
-    content: "\e910";
-}
-.fs-icon-dashboard2:before {
-    content: "\e911";
+.fs-weather-radar:before {
+  content: "\e900";
 }
 .fs-chart-trend-down:before {
-    content: "\e900";
+  content: "\e901";
+}
+.fs-chart-area:before {
+  content: "\e902";
 }
 .fs-chart-trend-up:before {
-    content: "\e902";
+  content: "\e903";
 }
 .fs-chart-distance:before {
-    content: "\e903";
+  content: "\e904";
+}
+.fs-lightning:before {
+  content: "\e905";
+}
+.fs-chart-areaspline:before {
+  content: "\e906";
 }
 .fs-weather-leaf-wet:before {
-    content: "\e906";
+  content: "\e907";
 }
 .fs-weather-level:before {
-    content: "\e907";
+  content: "\e908";
 }
 .fs-weather-preciptation:before {
-    content: "\e908";
+  content: "\e909";
+}
+.fs-chart-bar:before {
+  content: "\e90a";
 }
 .fs-weather-pressure:before {
-    content: "\e90a";
+  content: "\e90b";
 }
 .fs-weather-temperature:before {
-    content: "\e90b";
+  content: "\e90c";
 }
 .fs-weather-humidity:before {
-    content: "\e90c";
+  content: "\e90d";
 }
 .fs-weather-solar-radiation:before {
-    content: "\e90d";
+  content: "\e90e";
 }
 .fs-weather-wind:before {
-    content: "\e90e";
+  content: "\e90f";
 }
 .fs-weather-wind-direction:before {
-    content: "\e90f";
+  content: "\e910";
 }
-.fs-icon-lightning:before {
-    content: "\e904";
+.fs-dashboard:before {
+  content: "\e911";
 }
-
-.fs-icon-line:before {
-  content: "\e916";
-}
-.fs-icon-polygon:before {
-  content: "\e918";
-}
-
-.fs-weather-ampacity2:before {
+.fs-dashboard2:before {
   content: "\e912";
 }
-.fs-weather-ampacity:before {
+.fs-weather-ampacity2:before {
+  content: "\e913";
+}
+.fs-chart-line:before {
   content: "\e914";
+}
+.fs-weather-ampacity:before {
+  content: "\e915";
+}
+.fs-line:before {
+  content: "\e916";
+}
+.fs-chart-point:before {
+  content: "\e917";
+}
+.fs-polygon:before {
+  content: "\e918";
+}
+.fs-chart-spline:before {
+  content: "\e925";
+}
+.fs-weather-common:before {
+  content: "\e929";
+}
+.fs-weather-hydro:before {
+  content: "\e92a";
+}
+.fs-weather-station:before {
+  content: "\e92b";
+}
+.fs-weather-lightning:before {
+  content: "\e92c";
+}
+.fs-logo-superior:before {
+  content: "\f50f";
+}
+.fs-logo-inferior:before {
+  content: "\f510";
+}
+.fs-animation-lvl-1:before {
+  content: "\f511";
+}
+.fs-animation-lvl-2:before {
+  content: "\f512";
+}
+.fs-animation-lvl-3:before {
+  content: "\f513";
+}
+.fs-animation-lvl-4:before {
+  content: "\f514";
+}
+.fs-animation-lvl-5:before {
+  content: "\f515";
+}
+.fs-animation-lvl-6:before {
+  content: "\f516";
+}
+.fs-animation-lvl-7:before {
+  content: "\f517";
+}
+.fs-animation-lvl-8:before {
+  content: "\f518";
+}
+.fs-animation-lvl-9:before {
+  content: "\f519";
+}
+.fs-animation-lvl-10:before {
+  content: "\f51a";
+}
+.fs-animation-lvl-11:before {
+  content: "\f51b";
 }
