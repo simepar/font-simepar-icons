@@ -74,25 +74,6 @@
 /*[class^="fs-animation-signal"]:after {
 }*/
 
-.fs-logo-superior:before {
-	content: "\f50f";
-	color: #ef9a01
-}
-
-.fs-logo-inferior:before {
-	content: "\f510";
-
-}
-
-.fs-logo:after {
-	content: "\f510";
-}
-
-.fs-logo:before {
-	content: "\f50f";
-	color: #ef9a01;
-}
-
 .fs-weather-radar:before {
   content: "\e900";
 }
@@ -108,7 +89,7 @@
 .fs-chart-distance:before {
   content: "\e904";
 }
-.fs-lightning:before {
+.fs-icon-lightning:before {
   content: "\e905";
 }
 .fs-chart-areaspline:before {
@@ -144,10 +125,10 @@
 .fs-weather-wind-direction:before {
   content: "\e910";
 }
-.fs-dashboard:before {
+.fs-icon-dashboard:before {
   content: "\e911";
 }
-.fs-dashboard2:before {
+.fs-icon-dashboard2:before {
   content: "\e912";
 }
 .fs-weather-ampacity2:before {
@@ -159,13 +140,13 @@
 .fs-weather-ampacity:before {
   content: "\e915";
 }
-.fs-line:before {
+.fs-icon-line:before {
   content: "\e916";
 }
 .fs-chart-point:before {
   content: "\e917";
 }
-.fs-polygon:before {
+.fs-icon-polygon:before {
   content: "\e918";
 }
 .fs-chart-spline:before {
@@ -183,42 +164,50 @@
 .fs-weather-lightning:before {
   content: "\e92c";
 }
-.fs-logo-superior:before {
-  content: "\f50f";
-}
-.fs-logo-inferior:before {
-  content: "\f510";
-}
-.fs-animation-lvl-1:before {
+.fs-animation-signal-lvl-1:after {
   content: "\f511";
 }
-.fs-animation-lvl-2:before {
+.fs-animation-signal-lvl-2:after {
   content: "\f512";
 }
-.fs-animation-lvl-3:before {
+.fs-animation-signal-lvl-3:after {
   content: "\f513";
 }
-.fs-animation-lvl-4:before {
+.fs-animation-signal-lvl-4:after {
   content: "\f514";
 }
-.fs-animation-lvl-5:before {
+.fs-animation-signal-lvl-5:after {
   content: "\f515";
 }
-.fs-animation-lvl-6:before {
+.fs-animation-signal-lvl-6:after {
   content: "\f516";
 }
-.fs-animation-lvl-7:before {
+.fs-animation-signal-lvl-7:after {
   content: "\f517";
 }
-.fs-animation-lvl-8:before {
+.fs-animation-signal-lvl-8:after {
   content: "\f518";
 }
-.fs-animation-lvl-9:before {
+.fs-animation-signal-lvl-9:after {
   content: "\f519";
 }
-.fs-animation-lvl-10:before {
+.fs-animation-signal-lvl-10:after {
   content: "\f51a";
 }
-.fs-animation-lvl-11:before {
+.fs-animation-signal-lvl-11:after {
   content: "\f51b";
+}
+.fs-logo-superior:before {
+	content: "\f50f";
+	color: #ef9a01
+}
+.fs-logo-inferior:before {
+	content: "\f510";
+}
+.fs-logo:after {
+	content: "\f510";
+}
+.fs-logo:before {
+	content: "\f50f";
+	color: #ef9a01;
 }
