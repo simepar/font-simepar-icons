@@ -14,7 +14,7 @@
 	font-style: normal;
 }
 
-[class^="fs-"], [class*=" fs-"] {
+[class^="fs-"], [class*="fs-"] {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -69,35 +69,6 @@
 [class^="fs-animation-signal"]:before {
 	color: #D8D8D8;
 	content: "\f51b";
-}
-
-/*[class^="fs-animation-signal"]:after {
-}*/
-
-@font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?gvmzi3');
-  src:  url('fonts/icomoon.eot?gvmzi3#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?gvmzi3') format('truetype'),
-    url('fonts/icomoon.woff?gvmzi3') format('woff'),
-    url('fonts/icomoon.svg?gvmzi3#icomoon') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
-[class^="icon-"], [class*=" icon-"] {
-  /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 .fs-icon-layer:before {
