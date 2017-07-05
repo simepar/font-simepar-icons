@@ -14,7 +14,7 @@
 	font-style: normal;
 }
 
-[class^="fs-"], [class*="fs-"] {
+[class^="fs-"], [class*=" fs-"] {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
