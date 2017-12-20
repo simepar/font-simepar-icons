@@ -71,6 +71,13 @@
 	content: "\f51b";
 }
 
+.fs-states-mt:before {
+  content: "\e91b";
+}
+.fs-states-pr:before {
+  content: "\e91c";
+}
+
 .fs-icon-layer:before {
   content: "\e900";
 }
