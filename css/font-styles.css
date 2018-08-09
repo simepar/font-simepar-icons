@@ -71,6 +71,9 @@
 	content: "\f51b";
 }
 
+.fs-icon-text:before {
+  content: "\e933";
+}
 .fs-icon-eraser:before {
   content: "\e931";
 }
