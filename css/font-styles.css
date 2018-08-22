@@ -71,6 +71,36 @@
 	content: "\f51b";
 }
 
+.fs-icon-eraser-pencil:before {
+  content: "\e934";
+}
+.fs-icon-eraser-text:before {
+  content: "\e935";
+}
+.fs-icon-expand:before {
+  content: "\e936";
+}
+.fs-icon-right-arrow:before {
+  content: "\e937";
+}
+.fs-icon-up-arrow:before {
+  content: "\e938";
+}
+.fs-icon-:before {
+  content: "\e939";
+}
+.fs-icon-down-arrow:before {
+  content: "\e93a";
+}
+.fs-icon-line-thick:before {
+  content: "\e93b";
+}
+.fs-icon-polygon-thick:before {
+  content: "\e93c";
+}
+.fs-icon-transversal-arrow:before {
+  content: "\e93d";
+}
 .fs-icon-text:before {
   content: "\e933";
 }
