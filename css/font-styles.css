@@ -70,7 +70,6 @@
 	color: #D8D8D8;
 	content: "\f51b";
 }
-
 .fs-icon-eraser-pencil:before {
   content: "\e934";
 }
@@ -86,7 +85,7 @@
 .fs-icon-up-arrow:before {
   content: "\e938";
 }
-.fs-icon-:before {
+.fs-icon-right-pointer:before {
   content: "\e939";
 }
 .fs-icon-down-arrow:before {
