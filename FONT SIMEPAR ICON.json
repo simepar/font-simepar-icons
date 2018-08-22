@@ -2,43 +2,53 @@
   "selection": [
     {
       "order": 73,
-      "name": "fs-icon-eraser-pencil"
+      "name": "fs-icon-eraser-pencil",
+      "prevSize": 32
     },
     {
       "order": 74,
-      "name": "fs-icon-eraser-text"
+      "name": "fs-icon-eraser-text",
+      "prevSize": 32
     },
     {
       "order": 75,
-      "name": "fs-icon-expand"
+      "name": "fs-icon-expand",
+      "prevSize": 32
     },
     {
       "order": 77,
-      "name": "fs-icon-right-arrow"
+      "name": "fs-icon-right-arrow",
+      "prevSize": 32
     },
     {
       "order": 76,
-      "name": "fs-icon-up-arrow"
+      "name": "fs-icon-up-arrow",
+      "prevSize": 32
     },
     {
       "order": 78,
-      "name": "fs-icon->"
+      "name": "fs-icon-right-pointer",
+      "prevSize": 32
     },
     {
       "order": 79,
-      "name": "fs-icon-down-arrow"
+      "name": "fs-icon-down-arrow",
+      "prevSize": 32
     },
     {
       "order": 80,
-      "name": "fs-icon-line-thick"
+      "name": "fs-icon-line-thick",
+      "prevSize": 32
     },
     {
       "order": 81,
-      "name": "fs-icon-polygon-thick"
+      "name": "fs-icon-polygon-thick",
+      "prevSize": 32
     },
     {
       "order": 82,
-      "name": "fs-icon-transversal-arrow"
+      "name": "fs-icon-transversal-arrow",
+      "prevSize": 32
     },
     {
       "order": 62,
@@ -414,7 +424,7 @@
       "width": 500,
       "height": 500
     },
-    "iconsHash": 62167159
+    "iconsHash": 2066349509
   },
   "height": 1024,
   "prevSize": 32,
@@ -430,7 +440,8 @@
       "grid": 0,
       "tags": [
         "fs-icon-eraser-pencil"
-      ]
+      ],
+      "defaultCode": 59700
     },
     {
       "paths": [
@@ -440,7 +451,8 @@
       "grid": 0,
       "tags": [
         "fs-icon-eraser-text"
-      ]
+      ],
+      "defaultCode": 59701
     },
     {
       "paths": [
@@ -449,7 +461,8 @@
       "grid": 0,
       "tags": [
         "fs-icon-expand"
-      ]
+      ],
+      "defaultCode": 59702
     },
     {
       "paths": [
@@ -458,7 +471,8 @@
       "grid": 0,
       "tags": [
         "fs-icon-right-arrow"
-      ]
+      ],
+      "defaultCode": 59703
     },
     {
       "paths": [
@@ -467,7 +481,8 @@
       "grid": 0,
       "tags": [
         "fs-icon-up-arrow"
-      ]
+      ],
+      "defaultCode": 59704
     },
     {
       "paths": [
@@ -475,8 +490,9 @@
       ],
       "grid": 0,
       "tags": [
-        "fs-icon->"
-      ]
+        "fs-icon-right-pointer"
+      ],
+      "defaultCode": 59705
     },
     {
       "paths": [
@@ -485,7 +501,8 @@
       "grid": 0,
       "tags": [
         "fs-icon-down-arrow"
-      ]
+      ],
+      "defaultCode": 59706
     },
     {
       "paths": [
@@ -494,7 +511,8 @@
       "grid": 0,
       "tags": [
         "fs-icon-line-thick"
-      ]
+      ],
+      "defaultCode": 59707
     },
     {
       "paths": [
@@ -503,7 +521,8 @@
       "grid": 0,
       "tags": [
         "fs-icon-polygon-thick"
-      ]
+      ],
+      "defaultCode": 59708
     },
     {
       "paths": [
@@ -512,7 +531,8 @@
       "grid": 0,
       "tags": [
         "fs-icon-transveral-arrow"
-      ]
+      ],
+      "defaultCode": 59709
     },
     {
       "paths": [
