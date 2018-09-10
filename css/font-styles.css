@@ -70,6 +70,105 @@
 	color: #D8D8D8;
 	content: "\f51b";
 }
+.fs-icon-evap:before {
+  content: "\e93e";
+}
+.fs-icon-bare-soil-temp:before {
+  content: "\e93f";
+}
+.fs-icon-cell-signal:before {
+  content: "\e940";
+}
+.fs-icon-energia-gerada:before {
+  content: "\e941";
+}
+.fs-icon-evapotrans:before {
+  content: "\e942";
+}
+.fs-icon-flow:before {
+  content: "\e943";
+}
+.fs-icon-grass-soil-temp:before {
+  content: "\e944";
+}
+.fs-icon-grassland-soil-temp:before {
+  content: "\e945";
+}
+.fs-icon-leaf-wet:before {
+  content: "\e946";
+}
+.fs-icon-level:before {
+  content: "\e947";
+}
+.fs-icon-lightning-feature:before {
+  content: "\e948";
+}
+.fs-icon-lightning-altitude:before {
+  content: "\e949";
+}
+.fs-icon-lightning-elipse-ang:before {
+  content: "\e94a";
+}
+.fs-icon-lightning-elipse-len-hor:before {
+  content: "\e94b";
+}
+.fs-icon-lightning-elipse-len-ver:before {
+  content: "\e94c";
+}
+.fs-icon-lightning-peak-current:before {
+  content: "\e94d";
+}
+.fs-icon-measure-sys-feature:before {
+  content: "\e94e";
+}
+.fs-icon-nivel-agua-jusante:before {
+  content: "\e94f";
+}
+.fs-icon-nivel-agua-montante:before {
+  content: "\e950";
+}
+.fs-icon-no-var:before {
+  content: "\e951";
+}
+.fs-icon-percentual-volume-espera:before {
+  content: "\e952";
+}
+.fs-icon-percentual-volume-util:before {
+  content: "\e953";
+}
+.fs-icon-posicao-operacao-eixo-x:before {
+  content: "\e954";
+}
+.fs-icon-posicao-operacao-eixo-y:before {
+  content: "\e955";
+}
+.fs-icon-rate-rise-waveform:before {
+  content: "\e956";
+}
+.fs-icon-regime-alerta-eixo-x:before {
+  content: "\e957";
+}
+.fs-icon-regime-alerta-eixo-y:before {
+  content: "\e958";
+}
+.fs-icon-soil-humidity:before {
+  content: "\e959";
+}
+.fs-icon-soil-temp:before {
+  content: "\e95a";
+}
+.fs-icon-stn-voltage:before {
+  content: "\e95b";
+}
+.fs-icon-time-feature-waveform:before {
+  content: "\e95c";
+}
+.fs-urban-soil-temp:before {
+  content: "\e95d";
+}
+.fs-icon-visibility:before {
+  content: "\e95e";
+}
 .fs-icon-eraser-pencil:before {
   content: "\e934";
 }
