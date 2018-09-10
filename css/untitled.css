@@ -1,33 +1,33 @@
 .margin{
-      margin: 20px 0 20px 0;
-      text-align: center;
+	    margin: 20px 0 20px 0;
+			text-align: center;
 }
 
 @font-face {
-  font-family: 'icomoon';
-  src:url('fonts/icomoon.eot?-judm9m');
-  src:url('fonts/icomoon.eot?#iefix-judm9m') format('embedded-opentype'),
-    url('fonts/icomoon.woff?-judm9m') format('woff'),
-    url('fonts/icomoon.ttf?-judm9m') format('truetype'),
-    url('fonts/icomoon.svg?-judm9m#icomoon') format('svg');
-  font-weight: normal;
-  font-style: normal;
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-judm9m');
+	src:url('fonts/icomoon.eot?#iefix-judm9m') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-judm9m') format('woff'),
+		url('fonts/icomoon.ttf?-judm9m') format('truetype'),
+		url('fonts/icomoon.svg?-judm9m#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
 
 [class^="fs-"], [class*=" fs-"] {
-  font-family: 'icomoon';
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 0.0;
-  display: inline-block;
-  vertical-align: top;
-  white-space: nowrap;
-  position: relative;
-  /*margin-right: -.16em;*/
-  -moz-box-sizing: border-box;
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 0.0;
+	display: inline-block;
+	vertical-align: top;
+	white-space: nowrap;
+	position: relative;
+	/*margin-right: -.16em;*/
+	-moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     /* padding here for text, icons replicate this using size and position:absolute - padding makes touch-target bigger */
@@ -39,8 +39,8 @@
     /* text hidden old-school */
     text-align: left;
     text-indent: -9999px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 /* position:absolute stacks pseudo elements - extra &lt;span> in markup = 2 extra pseudo elements */
 [class^="fs-"]:before,
@@ -73,8 +73,8 @@
   color: #ef9a01;
 }
 [class^="fs-animation-signal"]:before {
-  color: #D8D8D8;
-  content: "\f51b";
+	color: #D8D8D8;
+	content: "\f51b";
 }
 
 .fs-variable-evaporation:before {
