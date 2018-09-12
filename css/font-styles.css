@@ -3,6 +3,14 @@
       text-align: center;
 }
 
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;    
+    text-align: center;
+}
+
+
+
 @font-face {
   font-family: 'icomoon';
   src:url('fonts/icomoon.eot?-judm9m');
@@ -31,11 +39,11 @@
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     /* padding here for text, icons replicate this using size and position:absolute - padding makes touch-target bigger */
-    padding: 0.2em 0;
+    padding: 0 0;
     /* units used in font: 1em = 2048, icons 2400 wide, so icons are 1.171875em (2400/2048). Add padding x2 to get size: */
     /*height: 1.45788em;
     width: 1.45788em;*/
-    font-size: 2.815em;
+    font-size: 4em;
     /* text hidden old-school */
     text-align: left;
     text-indent: -9999px;
@@ -218,7 +226,7 @@
 .fs-general-polygon-thick:before {
   content: "\e93c";
 }
-.fs-general-transveral-arrow:before {
+.fs-general-transversal-arrow:before {
   content: "\e93d";
 }
 .fs-general-text:before {
@@ -278,7 +286,7 @@
 .fs-state-es1:before {
   content: "\e914";
 }
-.fs-state-es:before {
+.fs-state-mt:before {
   content: "\e915";
 }
 .fs-state-pr:before {
