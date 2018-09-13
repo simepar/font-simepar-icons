@@ -5,22 +5,39 @@ body {
 }
 
 #simepar-logo{
-    top: 18px;
+    top: 25px;
 }
 
 
-@media(max-width: 320px){ 
+.margin{
+      margin: 20px 0 20px 0;
+      text-align: center;
+}
+
+.title{
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+}
+
+#animated_signal_header > span{
+  margin-top: 70px;
+}
+
+
+@media(max-width: 320px){
     #simepar-logo{
-        top: 18px;
+        top: 25px;
         font-size:30px;
     }
 }
 
-@media(max-width: 1200px){ 
+@media(max-width: 1200px){
     .container{
         text-align: center;
     }
-    
+
     #animated_signal_header {
         display: none;
     }

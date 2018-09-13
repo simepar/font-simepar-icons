@@ -75,7 +75,7 @@
 
     <div class="container">
         <div class="row icons-list" id="weatherIcons">
-                <h2>Weather Icons</h2>
+                <h2 class="title">Weather Icons</h2>
                 <div class="col-md-4 col-sm-4 col-xs-12 margin">
                     <div class="fs-weather-common"></div>
                     <div>fs-weather-common</div>
@@ -148,7 +148,7 @@
         <!-- .row -->
 
         <div class="row icons-list" id="variableIcons">
-                <h2>Variable Icons</h2>
+                <h2 class="title">Variable Icons</h2>
                 <div class="col-md-4 col-sm-4 col-xs-12 margin">
                     <div class="fs-variable-evaporation"></div>
                     <div>fs-variable-evaporation</div>
@@ -280,7 +280,7 @@
         </div>
         <!-- .row -->
          <div class="row icons-list" id="datatypeIcons">
-                <h2>Datatype Icons</h2>
+                <h2 class="title">Datatype Icons</h2>
                 <div class="col-md-4 col-sm-4 col-xs-12 margin">
                     <div class="fs-datatype-calculado"></div>
                     <div>fs-datatype-calculado</div>
@@ -328,7 +328,7 @@
         </div>
         <!-- .row -->
         <div class="row icons-list" id="generalIcons">
-            <h2>General Icons</h2>
+            <h2 class="title">General Icons</h2>
             <div class="col-md-4 col-sm-4 col-xs-12 margin">
                 <div class="fs-general-eraser-pencil"></div>
                 <div>fs-general-eraser-pencil</div>
@@ -377,10 +377,10 @@
                 <div class="fs-general-pencil"></div>
                 <div>fs-general-pencil</div>
             </div>
-   
+
              <div class="col-md-4 col-sm-4 col-xs-12 margin">
                 <div class="fs-general-eraser"></div>
-                <div>fs-general-eraser</div>   
+                <div>fs-general-eraser</div>
             </div>
 
              <div class="col-md-4 col-sm-4 col-xs-12 margin">
@@ -488,7 +488,7 @@
         <!-- .row -->
 
         <div class="row icons-list" id="chartIcons">
-            <h2>Chart Icons</h2>
+            <h2 class="title">Chart Icons</h2>
             <div class="col-md-4 col-sm-4 col-xs-12 margin">
                 <div class="fs-chart-point"></div>
                 <div>fs-chart-point</div>
@@ -538,7 +538,7 @@
         <!-- .row -->
 
         <div class="row icons-list" id="animatedIcons">
-            <h2>Animated Icons</h2>
+            <h2 class="title">Animated Icons</h2>
             <!-- /.col-md-4 col-sm-4 col-xs-12 margin -->
             <div class="col-md-4 col-sm-4 col-xs-12 margin">
                 <div class="fs-animated-signal-lvl-1"></div>
@@ -598,7 +598,7 @@
         <!-- .row -->
 
         <div class="row icons-list" id="simeparLogo">
-            <h2>States Logo</h2>
+            <h2 class="title">States Logo</h2>
             <div class="col-md-4 col-sm-4 col-xs-12 margin">
                 <div class="fs-state-pr"></div>
                 <div>fs-state-pr</div>
@@ -615,7 +615,7 @@
         <!-- .row -->
 
         <div class="row icons-list" id="simeparLogo">
-            <h2>Simepar Logo</h2>
+            <h2 class="title">Simepar Logo</h2>
             <div class="col-md-4 col-sm-4 col-xs-12 margin">
                 <div class="fs-logo-superior"></div>
                 <div>fs-logo-superior</div>
@@ -655,19 +655,19 @@
         sinalHeader.empty();
 
         var icon = document.createElement('span');
-        icon.className = 'fs-animation-signal-lvl-11';
+        icon.className = 'fs-animated-signal-lvl-11';
         icon.id = "signal-level";
         sinal.append(icon);
 
         var iconHeader = document.createElement('span');
-        iconHeader.className = 'fs-animation-signal-lvl-11';
+        iconHeader.className = 'fs-animated-signal-lvl-11';
         iconHeader.id = "signal-level-header";
         sinalHeader.append(iconHeader);
 
         var i = 1;
         setInterval(function () {
-            icon.className = 'fs-animation-signal-lvl-' + i;
-            iconHeader.className = 'fs-animation-signal-lvl-' + i;
+            icon.className = 'fs-animated-signal-lvl-' + i;
+            iconHeader.className = 'fs-animated-signal-lvl-' + i;
             i++;
 
             if (i == 11) i = 0;
