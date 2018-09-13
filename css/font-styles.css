@@ -85,6 +85,21 @@
   content: "\f51b";
 }
 
+.fs-stationtype-agrometeorologica:before {
+  content: "\e964";
+}
+.fs-stationtype-hidrologica:before {
+  content: "\e965";
+}
+.fs-stationtype-hidrometeorologica:before {
+  content: "\e966";
+}
+.fs-stationtype-meteorologica:before {
+  content: "\e967";
+}
+.fs-stationtype-pluviometrica:before {
+  content: "\e968";
+}
 .fs-datatype-calculado:before {
   content: "\e900";
 }
@@ -283,7 +298,7 @@
 .fs-general-suspension-points:before {
   content: "\e913";
 }
-.fs-state-es1:before {
+.fs-state-es:before {
   content: "\e914";
 }
 .fs-state-mt:before {
