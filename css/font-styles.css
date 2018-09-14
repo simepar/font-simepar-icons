@@ -1,16 +1,3 @@
-.margin{
-      margin: 20px 0 20px 0;
-      text-align: center;
-}
-
-.h1, .h2, .h3, h1, h2, h3 {
-    margin-top: 40px !important;
-    margin-bottom: 40px !important;    
-    text-align: center;
-}
-
-
-
 @font-face {
   font-family: 'icomoon';
   src:url('fonts/icomoon.eot?-judm9m');
@@ -39,11 +26,11 @@
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     /* padding here for text, icons replicate this using size and position:absolute - padding makes touch-target bigger */
-    padding: 0 0;
+    padding: 0.2em 0;
     /* units used in font: 1em = 2048, icons 2400 wide, so icons are 1.171875em (2400/2048). Add padding x2 to get size: */
     /*height: 1.45788em;
     width: 1.45788em;*/
-    font-size: 4em;
+    font-size: 2.815em;
     /* text hidden old-school */
     text-align: left;
     text-indent: -9999px;
@@ -80,11 +67,26 @@
   content: "\f50f";
   color: #ef9a01;
 }
-[class^="fs-animation-signal"]:before {
+[class^="fs-animated-signal"]:before {
   color: #D8D8D8;
   content: "\f51b";
 }
 
+.fs-stationtype-agrometeorologica:before {
+  content: "\e964";
+}
+.fs-stationtype-hidrologica:before {
+  content: "\e965";
+}
+.fs-stationtype-hidrometeorologica:before {
+  content: "\e966";
+}
+.fs-stationtype-meteorologica:before {
+  content: "\e967";
+}
+.fs-stationtype-pluviometrica:before {
+  content: "\e968";
+}
 .fs-datatype-calculado:before {
   content: "\e900";
 }
@@ -283,7 +285,7 @@
 .fs-general-suspension-points:before {
   content: "\e913";
 }
-.fs-state-es1:before {
+.fs-state-es:before {
   content: "\e914";
 }
 .fs-state-mt:before {
