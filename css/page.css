@@ -8,6 +8,11 @@ body {
     top: 25px;
 }
 
+#font-size{
+  font-size: 4em!important;
+  margin-bottom: 10px;
+}
+
 
 .margin{
       margin: 20px 0 20px 0;
