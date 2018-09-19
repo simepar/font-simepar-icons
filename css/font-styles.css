@@ -85,6 +85,54 @@
   content: "\f51b";
 }
 
+.fs-weather-cloud-day-hail:before {
+  content: "\e969";
+}
+.fs-weather-cloud-day-lightning:before {
+  content: "\e96a";
+}
+.fs-weather-cloud-day-rain:before {
+  content: "\e96b";
+}
+.fs-weather-cloud-day-snow:before {
+  content: "\e96c";
+}
+.fs-weather-cloud-day-storm:before {
+  content: "\e96d";
+}
+.fs-weather-cloud-day-windy:before {
+  content: "\e96e";
+}
+.fs-weather-cloud-moon:before {
+  content: "\e96f";
+}
+.fs-weather-cloud-night-hail:before {
+  content: "\e970";
+}
+.fs-weather-cloud-night-rain:before {
+  content: "\e971";
+}
+.fs-weather-cloud-night-snow:before {
+  content: "\e972";
+}
+.fs-weather-cloud-night-storm:before {
+  content: "\e973";
+}
+.fs-weather-cloud-night-windy:before {
+  content: "\e974";
+}
+.fs-weather-cloud-simple:before {
+  content: "\e975";
+}
+.fs-weather-cloud-sun:before {
+  content: "\e976";
+}
+.fs-weather-moon:before {
+  content: "\e977";
+}
+.fs-weather-sun:before {
+  content: "\e978";
+}
 .fs-stationtype-agrometeorologica:before {
   content: "\e964";
 }
