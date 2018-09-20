@@ -85,6 +85,39 @@
   content: "\f51b";
 }
 
+.fs-dataype-calculado-1:before {
+  content: "\e900";
+}
+.fs-datatype-calculado:before {
+  content: "\e901";
+}
+.fs-datatype-consistido-1:before {
+  content: "\e902";
+}
+.fs-datatype-consistido:before {
+  content: "\e903";
+}
+.fs-datatype-medido-1:before {
+  content: "\e904";
+}
+.fs-datatype-medido:before {
+  content: "\e977";
+}
+.fs-datatype-reconstruido-1:before {
+  content: "\e979";
+}
+.fs-datatype-reconstruido:before {
+  content: "\e97a";
+}
+.fs-datatype-sumarizado-1:before {
+  content: "\e97b";
+}
+.fs-datatype-sumarizado:before {
+  content: "\e97c";
+}
+.fs-weather-moon:before {
+  content: "\e97d";
+}
 .fs-weather-cloud-day-hail:before {
   content: "\e969";
 }
@@ -127,9 +160,6 @@
 .fs-weather-cloud-sun:before {
   content: "\e976";
 }
-.fs-weather-moon:before {
-  content: "\e977";
-}
 .fs-weather-sun:before {
   content: "\e978";
 }
@@ -147,21 +177,6 @@
 }
 .fs-stationtype-pluviometrica:before {
   content: "\e968";
-}
-.fs-datatype-calculado:before {
-  content: "\e900";
-}
-.fs-datatype-consistido:before {
-  content: "\e901";
-}
-.fs-datatype-medido:before {
-  content: "\e902";
-}
-.fs-datatype-reconstruido:before {
-  content: "\e903";
-}
-.fs-datatype-sumarizado:before {
-  content: "\e904";
 }
 .fs-variable-evaporation:before {
   content: "\e93e";
