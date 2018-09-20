@@ -2,7 +2,7 @@
   "selection": [
     {
       "order": 243,
-      "name": "fs-dataype-calculado-1",
+      "name": "fs-datatype-calculado-1",
       "prevSize": 32
     },
     {
@@ -12,7 +12,8 @@
     },
     {
       "order": 253,
-      "name": "fs-datatype-consistido-1"
+      "name": "fs-datatype-consistido-1",
+      "prevSize": 32
     },
     {
       "order": 246,
@@ -743,7 +744,7 @@
       "width": 600,
       "height": 600
     },
-    "iconsHash": 1166828331
+    "iconsHash": 1094586844
   },
   "height": 1024,
   "prevSize": 32,
@@ -765,7 +766,7 @@
       ],
       "grid": 0,
       "tags": [
-        "fs-dataype-calculado-1"
+        "fs-datatype-calculado-1"
       ],
       "defaultCode": 59648
     },
@@ -800,7 +801,8 @@
       "grid": 0,
       "tags": [
         "fs-datatype-consistido-1"
-      ]
+      ],
+      "defaultCode": 59650
     },
     {
       "paths": [
