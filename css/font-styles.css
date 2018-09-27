@@ -72,6 +72,12 @@
   content: "\f51b";
 }
 
+.fs-general-equal:before {
+  content: "\e97e";
+}
+.fs-general-triangle:before {
+  content: "\e97f";
+}
 .fs-datatype-calculado-1:before {
   content: "\e900";
 }
