@@ -72,6 +72,12 @@
   content: "\f51b";
 }
 
+.fs-general-becker:before {
+  content: "\e980";
+}
+.fs-weather-simplerain:before {
+  content: "\e981";
+}
 .fs-general-equal:before {
   content: "\e97e";
 }
