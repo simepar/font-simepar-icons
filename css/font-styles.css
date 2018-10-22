@@ -72,6 +72,43 @@
   content: "\f51b";
 }
 
+.fs-general-dashboard-3:before {
+  content: "\e982";
+}
+.fs-general-meu-climatos-1 .path1:before {
+  content: "\e983";
+  color: rgb(1, 1, 1);
+}
+.fs-general-meu-climatos-1 .path2:before {
+  content: "\e984";
+  margin-left: -1em;
+  color: rgb(39, 78, 114);
+}
+.fs-general-meu-climatos-1 .path3:before {
+  content: "\e985";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.fs-general-meu-climatos-1 .path4:before {
+  content: "\e986";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.fs-general-meu-climatos-2:before {
+  content: "\e987";
+}
+.fs-general-meu-climatos-3:before {
+  content: "\e988";
+}
+.fs-general-simulacao-1:before {
+  content: "\e989";
+}
+.fs-general-simulacao-2:before {
+  content: "\e98a";
+}
+.fs-general-simulacao-3:before {
+  content: "\e98b";
+}
 .fs-general-becker:before {
   content: "\e980";
 }
