@@ -2,31 +2,37 @@
   "selection": [
     {
       "order": 259,
-      "name": "fs-general-dashboard-3"
+      "name": "fs-general-dashboard-3",
+      "prevSize": 32
     },
     {
-      "order": 260,
+      "order": 266,
       "name": "fs-general-meu-climatos-1"
     },
     {
       "order": 261,
-      "name": "fs-general-meu-climatos-2"
+      "name": "fs-general-meu-climatos-2",
+      "prevSize": 32
     },
     {
       "order": 262,
-      "name": "fs-general-meu-climatos-3"
+      "name": "fs-general-meu-climatos-3",
+      "prevSize": 32
     },
     {
       "order": 265,
-      "name": "fs-general-simulacao-1"
+      "name": "fs-general-simulacao-1",
+      "prevSize": 32
     },
     {
       "order": 264,
-      "name": "fs-general-simulacao-2"
+      "name": "fs-general-simulacao-2",
+      "prevSize": 32
     },
     {
       "order": 263,
-      "name": "fs-general-simulacao-3"
+      "name": "fs-general-simulacao-3",
+      "prevSize": 32
     },
     {
       "order": 257,
@@ -808,7 +814,8 @@
       "grid": 0,
       "tags": [
         "fs-general-dashboard-3"
-      ]
+      ],
+      "defaultCode": 59778
     },
     {
       "paths": [
@@ -817,41 +824,10 @@
         "M321.946 317.645c-1.843-21.709 27.443-49.766 55.501-37.478 21.299 9.216 36.045 23.757 40.755 46.899 4.301 21.094-12.902 47.104-34.202 50.586-16.998 2.867-31.744-4.301-43.827-15.77-12.288-11.264-17.408-26.010-18.227-44.237z",
         "M570.368 383.59c-20.685 0-30.72-13.517-24.371-33.178 4.915-15.155 13.722-27.648 28.262-35.021 11.878-5.939 23.142-4.71 32.768 3.686 8.806 7.782 11.674 20.275 7.168 32.154-7.373 20.070-24.166 32.563-43.827 32.358z"
       ],
-      "attrs": [
-        {
-          "fill": "rgb(1, 1, 1)"
-        },
-        {
-          "fill": "rgb(39, 78, 114)"
-        },
-        {
-          "fill": "rgb(1, 1, 1)"
-        },
-        {
-          "fill": "rgb(1, 1, 1)"
-        }
-      ],
-      "isMulticolor": true,
       "grid": 0,
       "tags": [
         "fs-general-meu-climatos-1"
-      ],
-      "colorPermutations": {
-        "111139781141": [
-          {
-            "f": 0
-          },
-          {
-            "f": 1
-          },
-          {
-            "f": 0
-          },
-          {
-            "f": 0
-          }
-        ]
-      }
+      ]
     },
     {
       "paths": [
@@ -860,7 +836,8 @@
       "grid": 0,
       "tags": [
         "fs-general-meu-climatos-2"
-      ]
+      ],
+      "defaultCode": 59783
     },
     {
       "paths": [
@@ -870,7 +847,8 @@
       "grid": 0,
       "tags": [
         "fs-general-meu-climatos-3"
-      ]
+      ],
+      "defaultCode": 59784
     },
     {
       "paths": [
@@ -884,7 +862,8 @@
       "grid": 0,
       "tags": [
         "fs-general-simulacao-1"
-      ]
+      ],
+      "defaultCode": 59785
     },
     {
       "paths": [
@@ -898,7 +877,8 @@
       "grid": 0,
       "tags": [
         "fs-general-simulacao-2"
-      ]
+      ],
+      "defaultCode": 59786
     },
     {
       "paths": [
@@ -912,7 +892,8 @@
       "grid": 0,
       "tags": [
         "fs-general-simulacao-3"
-      ]
+      ],
+      "defaultCode": 59787
     },
     {
       "paths": [
