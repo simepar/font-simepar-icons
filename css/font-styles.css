@@ -96,6 +96,9 @@
 .fs-general-becker:before {
   content: "\e980";
 }
+.fs-general-becker-2:before {
+  content: "\e984";
+}
 .fs-weather-simplerain:before {
   content: "\e981";
 }
