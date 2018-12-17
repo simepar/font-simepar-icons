@@ -72,6 +72,12 @@
   content: "\f51b";
 }
 
+.fs-general-without-wind-direction:before {
+  content: "\e985";
+}
+.fs-general-without-wind-direction-2:before {
+  content: "\e986";
+}
 .fs-general-dashboard-3:before {
   content: "\e982";
 }
