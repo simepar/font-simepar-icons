@@ -72,74 +72,23 @@
   content: "\f51b";
 }
 
-.fs-mailsignature-website .path1:before {
+.fs-mailsignature-linkedin:before {
   content: "\e900";
-  color: rgb(214, 165, 30);
 }
-.fs-mailsignature-website .path2:before {
+.fs-mailsignature-location:before {
   content: "\e901";
-  margin-left: -1em;
-  color: rgb(253, 253, 251);
 }
-.fs-mailsignature-linkedin .path1:before {
+.fs-mailsignature-mobile:before {
   content: "\e902";
-  color: rgb(214, 165, 30);
 }
-.fs-mailsignature-linkedin .path2:before {
+.fs-mailsignature-phone:before {
   content: "\e903";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
-.fs-mailsignature-linkedin .path3:before {
+.fs-mailsignature-website:before {
   content: "\e904";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
-.fs-mailsignature-linkedin .path4:before {
+.fs-mailsignature-whatsapp:before {
   content: "\e905";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.fs-mailsignature-location .path1:before {
-  content: "\e906";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-location .path2:before {
-  content: "\e907";
-  margin-left: -1em;
-  color: rgb(250, 250, 250);
-}
-.fs-mailsignature-mobile .path1:before {
-  content: "\e908";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-mobile .path2:before {
-  content: "\e909";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.fs-mailsignature-phone .path1:before {
-  content: "\e90a";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-phone .path2:before {
-  content: "\e90b";
-  margin-left: -1em;
-  color: rgb(250, 250, 250);
-}
-.fs-mailsignature-whatsapp .path1:before {
-  content: "\e90c";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-whatsapp .path2:before {
-  content: "\e90d";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.fs-mailsignature-whatsapp .path3:before {
-  content: "\e90e";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .fs-general-without-wind-direction:before {
   content: "\e985";
