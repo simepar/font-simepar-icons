@@ -72,6 +72,24 @@
   content: "\f51b";
 }
 
+.fs-mailsignature-linkedin:before {
+  content: "\e92e";
+}
+.fs-mailsignature-location:before {
+  content: "\e92f";
+}
+.fs-mailsignature-mobile:before {
+  content: "\e930";
+}
+.fs-mailsignature-phone:before {
+  content: "\e931";
+}
+.fs-mailsignature-website:before {
+  content: "\e932";
+}
+.fs-mailsignature-whatsapp:before {
+  content: "\e933";
+}
 .fs-general-self-contained:before {
   content: "\e900";
 }
@@ -209,75 +227,6 @@
 }
 .fs-general-rectangle-thin:before {
   content: "\e92d";
-}
-.fs-mailsignature-website .path1:before {
-  content: "\e92e";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-website .path2:before {
-  content: "\e92f";
-  margin-left: -1em;
-  color: rgb(253, 253, 251);
-}
-.fs-mailsignature-linkedin .path1:before {
-  content: "\e930";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-linkedin .path2:before {
-  content: "\e931";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.fs-mailsignature-linkedin .path3:before {
-  content: "\e932";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.fs-mailsignature-linkedin .path4:before {
-  content: "\e933";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.fs-mailsignature-location .path1:before {
-  content: "\e934";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-location .path2:before {
-  content: "\e935";
-  margin-left: -1em;
-  color: rgb(250, 250, 250);
-}
-.fs-mailsignature-mobile .path1:before {
-  content: "\e936";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-mobile .path2:before {
-  content: "\e937";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.fs-mailsignature-phone .path1:before {
-  content: "\e938";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-phone .path2:before {
-  content: "\e939";
-  margin-left: -1em;
-  color: rgb(250, 250, 250);
-}
-.fs-mailsignature-whatsapp .path1:before {
-  content: "\e93a";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-whatsapp .path2:before {
-  content: "\e93b";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.fs-mailsignature-whatsapp .path3:before {
-  content: "\e93c";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .fs-general-without-wind-direction:before {
   content: "\e985";
