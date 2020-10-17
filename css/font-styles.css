@@ -72,221 +72,280 @@
   content: "\f51b";
 }
 
-.fs-weather-cold-waves:before {
+.fs-weather-frost:before {
   content: "\e900";
 }
-.fs-weather-dry:before {
+.fs-weather-heat-waves:before {
   content: "\e901";
 }
-.fs-weather-low-humidity:before {
+.fs-weather-landslide:before {
   content: "\e902";
 }
-.fs-general-self-contained:before {
+.fs-weather-lightning-storm:before {
   content: "\e903";
 }
-.fs-general-self-contained-circle:before {
+.fs-weather-rainfall:before {
   content: "\e904";
 }
-.fs-general-spatial-temporal:before {
+.fs-general-self-contained:before {
   content: "\e905";
 }
-.fs-general-spatial-temporal-circle:before {
+.fs-general-self-contained-circle:before {
   content: "\e906";
 }
-.fs-general-station:before {
+.fs-general-spatial-temporal:before {
   content: "\e907";
 }
-.fs-general-station-circle:before {
+.fs-general-spatial-temporal-circle:before {
   content: "\e908";
 }
-.fs-general-excellence:before {
+.fs-general-station:before {
   content: "\e909";
 }
-.fs-general-excellence-circle:before {
+.fs-general-station-circle:before {
   content: "\e90a";
 }
-.fs-general-station-management:before {
+.fs-general-excellence:before {
   content: "\e90b";
 }
-.fs-general-station-management-circle:before {
+.fs-general-excellence-circle:before {
   content: "\e90c";
 }
-.fs-general-station-hydrology:before {
+.fs-general-station-management:before {
   content: "\e90d";
 }
-.fs-general-station-hydrology-circle:before {
+.fs-general-station-management-circle:before {
   content: "\e90e";
 }
-.fs-general-information-management:before {
+.fs-general-station-hydrology:before {
   content: "\e90f";
 }
-.fs-general-information-management-circle:before {
+.fs-general-station-hydrology-circle:before {
   content: "\e910";
 }
-.fs-general-ingestion:before {
+.fs-general-information-management:before {
   content: "\e911";
 }
-.fs-general-ingestion-circle:before {
+.fs-general-information-management-circle:before {
   content: "\e912";
 }
-.fs-general-innovation:before {
+.fs-general-ingestion:before {
   content: "\e913";
 }
-.fs-general-innovation-circle:before {
+.fs-general-ingestion-circle:before {
   content: "\e914";
 }
-.fs-general-integration:before {
+.fs-general-innovation:before {
   content: "\e915";
 }
-.fs-general-integration-circle:before {
+.fs-general-innovation-circle:before {
   content: "\e916";
 }
-.fs-general-responsive:before {
+.fs-general-integration:before {
   content: "\e917";
 }
-.fs-general-responsive-circle:before {
+.fs-general-integration-circle:before {
   content: "\e918";
 }
-.fs-general-user-experience:before {
+.fs-general-responsive:before {
   content: "\e919";
 }
-.fs-general-user-experience-circle:before {
+.fs-general-responsive-circle:before {
   content: "\e91a";
 }
-.fs-general-circle-in-thick:before {
+.fs-general-user-experience:before {
   content: "\e91b";
 }
-.fs-general-circle-in-thin:before {
+.fs-general-user-experience-circle:before {
   content: "\e91c";
 }
-.fs-general-circle-out-thick:before {
+.fs-general-circle-in-thick:before {
   content: "\e91d";
 }
-.fs-general-circle-out-thin:before {
+.fs-general-circle-in-thin:before {
   content: "\e91e";
 }
-.fs-general-circle-thick:before {
+.fs-general-circle-out-thick:before {
   content: "\e91f";
 }
-.fs-general-circle-thin:before {
+.fs-general-circle-out-thin:before {
   content: "\e920";
 }
-.fs-general-hexagon-in-thick:before {
+.fs-general-circle-thick:before {
   content: "\e921";
 }
-.fs-general-hexagon-in-thin:before {
+.fs-general-circle-thin:before {
   content: "\e922";
 }
-.fs-general-hexagon-out-thick:before {
+.fs-general-hexagon-in-thick:before {
   content: "\e923";
 }
-.fs-general-hexagon-out-thin:before {
+.fs-general-hexagon-in-thin:before {
   content: "\e924";
 }
-.fs-general-hexagon-thick:before {
+.fs-general-hexagon-out-thick:before {
   content: "\e925";
 }
-.fs-general-hexagon-thin:before {
+.fs-general-hexagon-out-thin:before {
   content: "\e926";
 }
-.fs-general-line-out-thick:before {
+.fs-general-hexagon-thick:before {
   content: "\e927";
 }
-.fs-general-line-out-thin:before {
+.fs-general-hexagon-thin:before {
   content: "\e928";
 }
-.fs-general-line2-thick:before {
+.fs-general-line-out-thick:before {
   content: "\e929";
 }
-.fs-general-line2-thin:before {
+.fs-general-line-out-thin:before {
   content: "\e92a";
 }
-.fs-general-rectangle-in-thick:before {
+.fs-general-line2-thick:before {
   content: "\e92b";
 }
-.fs-general-rectangle-in-thin:before {
+.fs-general-line2-thin:before {
   content: "\e92c";
 }
-.fs-general-rectangle-out-thick:before {
+.fs-general-rectangle-in-thick:before {
   content: "\e92d";
 }
-.fs-general-rectangle-out-thin:before {
+.fs-general-rectangle-in-thin:before {
   content: "\e92e";
 }
-.fs-general-rectangle-thick:before {
+.fs-general-rectangle-out-thick:before {
   content: "\e92f";
 }
-.fs-general-rectangle-thin:before {
+.fs-general-rectangle-out-thin:before {
   content: "\e930";
 }
-.fs-mailsignature-website .path1:before {
+.fs-general-rectangle-thick:before {
   content: "\e931";
-  color: rgb(214, 165, 30);
+}
+.fs-general-rectangle-thin:before {
+  content: "\e932";
+}
+.fs-mailsignature-website .path1:before {
+  content: "\e933";
+  color: ;
 }
 .fs-mailsignature-website .path2:before {
-  content: "\e932";
-  margin-left: -1em;
-  color: rgb(253, 253, 251);
-}
-.fs-mailsignature-linkedin .path1:before {
-  content: "\e933";
-  color: rgb(214, 165, 30);
-}
-.fs-mailsignature-linkedin .path2:before {
   content: "\e934";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
+  color: ;
 }
-.fs-mailsignature-linkedin .path3:before {
+.fs-mailsignature-website .path3:before {
   content: "\e935";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
+  color: ;
 }
-.fs-mailsignature-linkedin .path4:before {
+.fs-mailsignature-website .path4:before {
   content: "\e936";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
+  color: ;
 }
-.fs-mailsignature-location .path1:before {
+.fs-mailsignature-website .path5:before {
   content: "\e937";
-  color: rgb(214, 165, 30);
+  margin-left: -1em;
+  color: ;
 }
-.fs-mailsignature-location .path2:before {
+.fs-mailsignature-website .path6:before {
   content: "\e938";
   margin-left: -1em;
-  color: rgb(250, 250, 250);
+  color: ;
 }
-.fs-mailsignature-mobile .path1:before {
+.fs-mailsignature-website .path7:before {
   content: "\e939";
-  color: rgb(214, 165, 30);
+  margin-left: -1em;
+  color: ;
 }
-.fs-mailsignature-mobile .path2:before {
+.fs-mailsignature-website .path8:before {
   content: "\e93a";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
+  color: ;
 }
-.fs-mailsignature-phone .path1:before {
+.fs-mailsignature-website .path9:before {
   content: "\e93b";
-  color: rgb(214, 165, 30);
+  margin-left: -1em;
+  color: ;
 }
-.fs-mailsignature-phone .path2:before {
+.fs-mailsignature-website .path10:before {
   content: "\e93c";
   margin-left: -1em;
-  color: rgb(250, 250, 250);
+  color: ;
 }
-.fs-mailsignature-whatsapp .path1:before {
+.fs-mailsignature-website .path11:before {
   content: "\e93d";
-  color: rgb(214, 165, 30);
+  margin-left: -1em;
+  color: ;
 }
-.fs-mailsignature-whatsapp .path2:before {
+.fs-mailsignature-website .path12:before {
   content: "\e93e";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
+  color: ;
 }
-.fs-mailsignature-whatsapp .path3:before {
+.fs-mailsignature-website .path13:before {
   content: "\e93f";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
+  color: ;
+}
+.fs-mailsignature-website .path14:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: ;
+}
+.fs-mailsignature-website .path15:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: ;
+}
+.fs-mailsignature-website .path16:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: ;
+}
+.fs-mailsignature-website .path17:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: ;
+}
+.fs-mailsignature-linkedin:before {
+  content: "\e944";
+}
+.fs-mailsignature-location .path1:before {
+  content: "\e945";
+  color: ;
+}
+.fs-mailsignature-location .path2:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: ;
+}
+.fs-mailsignature-mobile .path1:before {
+  content: "\e947";
+  color: ;
+}
+.fs-mailsignature-mobile .path2:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: ;
+}
+.fs-mailsignature-mobile .path3:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: ;
+}
+.fs-mailsignature-phone:before {
+  content: "\e94a";
+}
+.fs-mailsignature-whatsapp .path1:before {
+  content: "\e94b";
+  color: ;
+}
+.fs-mailsignature-whatsapp .path2:before {
+  content: "\e94c";
+  margin-left: -1em;
+  color: ;
 }
 .fs-general-without-wind-direction:before {
   content: "\e985";
@@ -331,19 +390,19 @@
   content: "\e97f";
 }
 .fs-datatype-calculado-1:before {
-  content: "\e940";
+  content: "\e94d";
 }
 .fs-datatype-calculado:before {
-  content: "\e941";
+  content: "\e94e";
 }
 .fs-datatype-consistido-1:before {
-  content: "\e942";
+  content: "\e94f";
 }
 .fs-datatype-consistido:before {
-  content: "\e943";
+  content: "\e950";
 }
 .fs-datatype-medido-1:before {
-  content: "\e944";
+  content: "\e951";
 }
 .fs-datatype-medido:before {
   content: "\e977";
@@ -424,289 +483,289 @@
   content: "\e968";
 }
 .fs-variable-evaporation:before {
-  content: "\e945";
-}
-.fs-variable-bare-soil-temperature:before {
-  content: "\e946";
-}
-.fs-variable-cell-signal:before {
-  content: "\e947";
-}
-.fs-variable-energia-gerada:before {
-  content: "\e948";
-}
-.fs-variable-evapotranspiration:before {
-  content: "\e949";
-}
-.fs-variable-flow:before {
-  content: "\e94a";
-}
-.fs-variable-grass-soil-temperature:before {
-  content: "\e94b";
-}
-.fs-variable-grassland-soil-temperature:before {
-  content: "\e94c";
-}
-.fs-variable-leaf-wet:before {
-  content: "\e94d";
-}
-.fs-variable-level:before {
-  content: "\e94e";
-}
-.fs-variable-lightning-feature:before {
-  content: "\e94f";
-}
-.fs-variable-lightning-altitude:before {
-  content: "\e950";
-}
-.fs-variable-lightning-elipse-angle:before {
-  content: "\e951";
-}
-.fs-variable-lightning-elipse-lenght-horizontal:before {
   content: "\e952";
 }
-.fs-variable-lightning-elipse-lenght-vertical:before {
+.fs-variable-bare-soil-temperature:before {
   content: "\e953";
 }
-.fs-variable-lightning-peak-current:before {
+.fs-variable-cell-signal:before {
   content: "\e954";
 }
-.fs-variable-measure-system-feature:before {
+.fs-variable-energia-gerada:before {
   content: "\e955";
 }
-.fs-variable-nivel-agua-jusante:before {
+.fs-variable-evapotranspiration:before {
   content: "\e956";
 }
-.fs-variable-nivel-agua-montante:before {
+.fs-variable-flow:before {
   content: "\e957";
 }
-.fs-variable-no-variable:before {
+.fs-variable-grass-soil-temperature:before {
   content: "\e958";
 }
-.fs-variable-percentual-volume-espera:before {
+.fs-variable-grassland-soil-temperature:before {
   content: "\e959";
 }
-.fs-variable-percentual-volume-util:before {
+.fs-variable-leaf-wet:before {
   content: "\e95a";
 }
-.fs-variable-posicao-operacao-eixo-x:before {
+.fs-variable-level:before {
   content: "\e95b";
 }
-.fs-variable-posicao-operacao-eixo-y:before {
+.fs-variable-lightning-feature:before {
   content: "\e95c";
 }
-.fs-variable-rate-rise-waveform:before {
+.fs-variable-lightning-altitude:before {
   content: "\e95d";
 }
-.fs-variable-regime-alerta-eixo-x:before {
+.fs-variable-lightning-elipse-angle:before {
   content: "\e95e";
 }
-.fs-variable-regime-alerta-eixo-y:before {
+.fs-variable-lightning-elipse-lenght-horizontal:before {
   content: "\e95f";
 }
-.fs-variable-soil-humidity:before {
+.fs-variable-lightning-elipse-lenght-vertical:before {
   content: "\e960";
 }
-.fs-variable-soil-temperature:before {
+.fs-variable-lightning-peak-current:before {
   content: "\e961";
 }
-.fs-variable-stn-voltage:before {
+.fs-variable-measure-system-feature:before {
   content: "\e962";
 }
-.fs-variable-time-feature-waveform:before {
+.fs-variable-nivel-agua-jusante:before {
   content: "\e963";
 }
-.fs-variable-urban-soil-temperature:before {
+.fs-variable-nivel-agua-montante:before {
   content: "\e98c";
 }
-.fs-variable-visibility:before {
+.fs-variable-no-variable:before {
   content: "\e98d";
 }
-.fs-general-eraser-pencil:before {
+.fs-variable-percentual-volume-espera:before {
   content: "\e98e";
 }
-.fs-general-eraser-text:before {
+.fs-variable-percentual-volume-util:before {
   content: "\e98f";
 }
-.fs-general-expand:before {
+.fs-variable-posicao-operacao-eixo-x:before {
   content: "\e990";
 }
-.fs-general-right-arrow:before {
+.fs-variable-posicao-operacao-eixo-y:before {
   content: "\e991";
 }
-.fs-general-up-arrow:before {
+.fs-variable-rate-rise-waveform:before {
   content: "\e992";
 }
-.fs-general-right-pointer:before {
+.fs-variable-regime-alerta-eixo-x:before {
   content: "\e993";
 }
-.fs-general-down-arrow:before {
+.fs-variable-regime-alerta-eixo-y:before {
   content: "\e994";
 }
-.fs-general-line-thick:before {
+.fs-variable-soil-humidity:before {
   content: "\e995";
 }
-.fs-general-polygon-thick:before {
+.fs-variable-soil-temperature:before {
   content: "\e996";
 }
-.fs-general-transversal-arrow:before {
+.fs-variable-stn-voltage:before {
   content: "\e997";
 }
-.fs-general-text:before {
+.fs-variable-time-feature-waveform:before {
   content: "\e998";
 }
-.fs-general-eraser:before {
+.fs-variable-urban-soil-temperature:before {
   content: "\e999";
 }
-.fs-general-pencil:before {
+.fs-variable-visibility:before {
   content: "\e99a";
 }
-.fs-general-forecast:before {
+.fs-general-eraser-pencil:before {
   content: "\e99b";
 }
-.fs-general-caligraphy-pen:before {
+.fs-general-eraser-text:before {
   content: "\e99c";
 }
-.fs-general-radar:before {
+.fs-general-expand:before {
   content: "\e99d";
 }
-.fs-general-target:before {
+.fs-general-right-arrow:before {
   content: "\e99e";
 }
-.fs-general-speed-1x:before {
+.fs-general-up-arrow:before {
   content: "\e99f";
 }
-.fs-general-speed-2x:before {
+.fs-general-right-pointer:before {
   content: "\e9a0";
 }
-.fs-general-history-3h:before {
+.fs-general-down-arrow:before {
   content: "\e9a1";
 }
-.fs-general-speed-3x:before {
+.fs-general-line-thick:before {
   content: "\e9a2";
 }
-.fs-general-history-12h:before {
+.fs-general-polygon-thick:before {
   content: "\e9a3";
 }
-.fs-general-history-24h:before {
+.fs-general-transversal-arrow:before {
   content: "\e9a4";
 }
-.fs-general-right:before {
+.fs-general-text:before {
   content: "\e9a5";
 }
-.fs-general-left:before {
+.fs-general-eraser:before {
   content: "\e9a6";
 }
-.fs-general-ruler:before {
+.fs-general-pencil:before {
   content: "\e9a7";
 }
-.fs-general-clock-circle:before {
+.fs-general-forecast:before {
   content: "\e9a8";
 }
-.fs-general-suspension-points:before {
+.fs-general-caligraphy-pen:before {
   content: "\e9a9";
 }
-.fs-state-es:before {
+.fs-general-radar:before {
   content: "\e9aa";
 }
-.fs-state-mt:before {
+.fs-general-target:before {
   content: "\e9ab";
 }
-.fs-state-pr:before {
+.fs-general-speed-1x:before {
   content: "\e9ac";
 }
-.fs-general-layer:before {
+.fs-general-speed-2x:before {
   content: "\e9ad";
 }
-.fs-weather-radar:before {
+.fs-general-history-3h:before {
   content: "\e9ae";
 }
-.fs-chart-trend-down:before {
+.fs-general-speed-3x:before {
   content: "\e9af";
 }
-.fs-chart-area:before {
+.fs-general-history-12h:before {
   content: "\e9b0";
 }
-.fs-chart-trend-up:before {
+.fs-general-history-24h:before {
   content: "\e9b1";
 }
-.fs-chart-distance:before {
+.fs-general-right:before {
   content: "\e9b2";
 }
-.fs-general-lightning:before {
+.fs-general-left:before {
   content: "\e9b3";
 }
-.fs-chart-areaspline:before {
+.fs-general-ruler:before {
   content: "\e9b4";
 }
-.fs-weather-leaf-wet:before {
+.fs-general-clock-circle:before {
   content: "\e9b5";
 }
-.fs-weather-level:before {
+.fs-general-suspension-points:before {
   content: "\e9b6";
 }
-.fs-weather-preciptation:before {
+.fs-state-es:before {
   content: "\e9b7";
 }
-.fs-chart-bar:before {
+.fs-state-mt:before {
   content: "\e9b8";
 }
-.fs-weather-pressure:before {
+.fs-state-pr:before {
   content: "\e9b9";
 }
-.fs-weather-temperature:before {
+.fs-general-layer:before {
   content: "\e9ba";
 }
-.fs-weather-humidity:before {
+.fs-weather-radar:before {
   content: "\e9bb";
 }
-.fs-weather-solar-radiation:before {
+.fs-chart-trend-down:before {
   content: "\e9bc";
 }
-.fs-weather-wind:before {
+.fs-chart-area:before {
   content: "\e9bd";
 }
-.fs-weather-wind-direction:before {
+.fs-chart-trend-up:before {
   content: "\e9be";
 }
-.fs-general-dashboard:before {
+.fs-chart-distance:before {
   content: "\e9bf";
 }
-.fs-general-dashboard2:before {
+.fs-general-lightning:before {
   content: "\e9c0";
 }
-.fs-weather-ampacity2:before {
+.fs-chart-areaspline:before {
   content: "\e9c1";
 }
-.fs-chart-line:before {
+.fs-weather-leaf-wet:before {
   content: "\e9c2";
 }
-.fs-weather-ampacity:before {
+.fs-weather-level:before {
   content: "\e9c3";
 }
-.fs-general-line:before {
+.fs-weather-preciptation:before {
   content: "\e9c4";
 }
-.fs-chart-point:before {
+.fs-chart-bar:before {
   content: "\e9c5";
 }
-.fs-general-polygon:before {
+.fs-weather-pressure:before {
   content: "\e9c6";
 }
-.fs-chart-spline:before {
+.fs-weather-temperature:before {
   content: "\e9c7";
 }
-.fs-weather-common:before {
+.fs-weather-humidity:before {
   content: "\e9c8";
 }
-.fs-weather-hydro:before {
+.fs-weather-solar-radiation:before {
   content: "\e9c9";
 }
-.fs-weather-station:before {
+.fs-weather-wind:before {
   content: "\e9ca";
 }
-.fs-weather-lightning:before {
+.fs-weather-wind-direction:before {
   content: "\e9cb";
+}
+.fs-general-dashboard:before {
+  content: "\e9cc";
+}
+.fs-general-dashboard2:before {
+  content: "\e9cd";
+}
+.fs-weather-ampacity2:before {
+  content: "\e9ce";
+}
+.fs-chart-line:before {
+  content: "\e9cf";
+}
+.fs-weather-ampacity:before {
+  content: "\e9d0";
+}
+.fs-general-line:before {
+  content: "\e9d1";
+}
+.fs-chart-point:before {
+  content: "\e9d2";
+}
+.fs-general-polygon:before {
+  content: "\e9d3";
+}
+.fs-chart-spline:before {
+  content: "\e9d4";
+}
+.fs-weather-common:before {
+  content: "\e9d5";
+}
+.fs-weather-hydro:before {
+  content: "\e9d6";
+}
+.fs-weather-station:before {
+  content: "\e9d7";
+}
+.fs-weather-lightning:before {
+  content: "\e9d8";
 }
 .fs-logo-superior:before {
   content: "\f50f";
