@@ -75,170 +75,173 @@
 
   content: "\e900";
 }
-.fs-weather-frost:before {
+.fs-general-drop:before {
   content: "\e900";
 }
-.fs-weather-landslide:before {
+.fs-weather-frost:before {
   content: "\e901";
 }
-.fs-weather-lightning-storm:before {
+.fs-weather-landslide:before {
   content: "\e902";
 }
-.fs-weather-rainfall:before {
+.fs-weather-lightning-storm:before {
   content: "\e903";
 }
-.fs-weather-heat-waves:before {
+.fs-weather-rainfall:before {
   content: "\e904";
 }
-.fs-weather-cold-waves:before {
+.fs-weather-heat-waves:before {
   content: "\e905";
 }
-.fs-weather-dry:before {
+.fs-weather-cold-waves:before {
   content: "\e906";
 }
-.fs-weather-low-humidity:before {
+.fs-weather-dry:before {
   content: "\e907";
 }
-.fs-general-self-contained:before {
+.fs-weather-low-humidity:before {
   content: "\e908";
 }
-.fs-general-self-contained-circle:before {
+.fs-general-self-contained:before {
   content: "\e909";
 }
-.fs-general-spatial-temporal:before {
+.fs-general-self-contained-circle:before {
   content: "\e90a";
 }
-.fs-general-spatial-temporal-circle:before {
+.fs-general-spatial-temporal:before {
   content: "\e90b";
 }
-.fs-general-station:before {
+.fs-general-spatial-temporal-circle:before {
   content: "\e90c";
 }
-.fs-general-station-circle:before {
+.fs-general-station:before {
   content: "\e90d";
 }
-.fs-general-excellence:before {
+.fs-general-station-circle:before {
   content: "\e90e";
 }
-.fs-general-excellence-circle:before {
+.fs-general-excellence:before {
   content: "\e90f";
 }
-.fs-general-station-management:before {
+.fs-general-excellence-circle:before {
   content: "\e910";
 }
-.fs-general-station-management-circle:before {
+.fs-general-station-management:before {
   content: "\e911";
 }
-.fs-general-station-hydrology:before {
+.fs-general-station-management-circle:before {
   content: "\e912";
 }
-.fs-general-station-hydrology-circle:before {
+.fs-general-station-hydrology:before {
   content: "\e913";
 }
-.fs-general-information-management:before {
+.fs-general-station-hydrology-circle:before {
   content: "\e914";
 }
-.fs-general-information-management-circle:before {
+.fs-general-information-management:before {
   content: "\e915";
 }
-.fs-general-ingestion:before {
+.fs-general-information-management-circle:before {
   content: "\e916";
 }
-.fs-general-ingestion-circle:before {
+.fs-general-ingestion:before {
   content: "\e917";
 }
-.fs-general-innovation:before {
+.fs-general-ingestion-circle:before {
   content: "\e918";
 }
-.fs-general-innovation-circle:before {
+.fs-general-innovation:before {
   content: "\e919";
 }
-.fs-general-integration:before {
+.fs-general-innovation-circle:before {
   content: "\e91a";
 }
-.fs-general-integration-circle:before {
+.fs-general-integration:before {
   content: "\e91b";
 }
-.fs-general-responsive:before {
+.fs-general-integration-circle:before {
   content: "\e91c";
 }
-.fs-general-responsive-circle:before {
+.fs-general-responsive:before {
   content: "\e91d";
 }
-.fs-general-user-experience:before {
+.fs-general-responsive-circle:before {
   content: "\e91e";
 }
-.fs-general-user-experience-circle:before {
+.fs-general-user-experience:before {
   content: "\e91f";
 }
-.fs-general-circle-in-thick:before {
+.fs-general-user-experience-circle:before {
   content: "\e920";
 }
-.fs-general-circle-in-thin:before {
+.fs-general-circle-in-thick:before {
   content: "\e921";
 }
-.fs-general-circle-out-thick:before {
+.fs-general-circle-in-thin:before {
   content: "\e922";
 }
-.fs-general-circle-out-thin:before {
+.fs-general-circle-out-thick:before {
   content: "\e923";
 }
-.fs-general-circle-thick:before {
+.fs-general-circle-out-thin:before {
   content: "\e924";
 }
-.fs-general-circle-thin:before {
+.fs-general-circle-thick:before {
   content: "\e925";
 }
-.fs-general-hexagon-in-thick:before {
+.fs-general-circle-thin:before {
   content: "\e926";
 }
-.fs-general-hexagon-in-thin:before {
+.fs-general-hexagon-in-thick:before {
   content: "\e927";
 }
-.fs-general-hexagon-out-thick:before {
+.fs-general-hexagon-in-thin:before {
   content: "\e928";
 }
-.fs-general-hexagon-out-thin:before {
+.fs-general-hexagon-out-thick:before {
   content: "\e929";
 }
-.fs-general-hexagon-thick:before {
+.fs-general-hexagon-out-thin:before {
   content: "\e92a";
 }
-.fs-general-hexagon-thin:before {
+.fs-general-hexagon-thick:before {
   content: "\e92b";
 }
-.fs-general-line-out-thick:before {
+.fs-general-hexagon-thin:before {
   content: "\e92c";
 }
-.fs-general-line-out-thin:before {
+.fs-general-line-out-thick:before {
   content: "\e92d";
 }
-.fs-general-line2-thick:before {
+.fs-general-line-out-thin:before {
   content: "\e92e";
 }
-.fs-general-line2-thin:before {
+.fs-general-line2-thick:before {
   content: "\e92f";
 }
-.fs-general-rectangle-in-thick:before {
+.fs-general-line2-thin:before {
   content: "\e930";
 }
-.fs-general-rectangle-in-thin:before {
+.fs-general-rectangle-in-thick:before {
   content: "\e931";
 }
-.fs-general-rectangle-out-thick:before {
+.fs-general-rectangle-in-thin:before {
   content: "\e932";
 }
-.fs-general-rectangle-out-thin:before {
+.fs-general-rectangle-out-thick:before {
   content: "\e933";
 }
-.fs-general-rectangle-thick:before {
+.fs-general-rectangle-out-thin:before {
   content: "\e934";
 }
-.fs-general-rectangle-thin:before {
+.fs-general-rectangle-thick:before {
   content: "\e935";
 }
-.fs-mailsignature-website:before {
+.fs-general-rectangle-thin:before {
   content: "\e936";
+}
+.fs-mailsignature-website:before {
+  content: "\e937";
 }
 .fs-mailsignature-linkedin:before {
   content: "\e947";
