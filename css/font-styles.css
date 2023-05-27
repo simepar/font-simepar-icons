@@ -72,7 +72,11 @@
   content: "\f51b";
 }
 
-}
+
+
+
+/* Trocar a partir daqui */
+
 .fs-general-drop:before {
   content: "\e900";
 }
@@ -592,20 +596,35 @@
 .fs-chart-trend-down:before {
   content: "\e9bf";
 }
+.fs-chart-trend-up:before {
+  content: "\e9c1";
+}
+.fs-chart-point:before {
+  content: "\e9d5";
+}
+.fs-chart-line:before {
+  content: "\e9d2";
+}
+.fs-chart-step:before {
+  content: "\e938";
+}
+.fs-chart-spline:before {
+  content: "\e9d7";
+}
 .fs-chart-area:before {
   content: "\e9c0";
 }
-.fs-chart-trend-up:before {
-  content: "\e9c1";
+.fs-chart-area-step:before {
+  content: "\e939";
+}
+.fs-chart-areaspline:before {
+  content: "\e9c4";
 }
 .fs-chart-distance:before {
   content: "\e9c2";
 }
 .fs-general-lightning:before {
   content: "\e9c3";
-}
-.fs-chart-areaspline:before {
-  content: "\e9c4";
 }
 .fs-weather-leaf-wet:before {
   content: "\e9c5";
@@ -646,23 +665,14 @@
 .fs-weather-ampacity2:before {
   content: "\e9d1";
 }
-.fs-chart-line:before {
-  content: "\e9d2";
-}
 .fs-weather-ampacity:before {
   content: "\e9d3";
 }
 .fs-general-line:before {
   content: "\e9d4";
 }
-.fs-chart-point:before {
-  content: "\e9d5";
-}
 .fs-general-polygon:before {
   content: "\e9d6";
-}
-.fs-chart-spline:before {
-  content: "\e9d7";
 }
 .fs-weather-common:before {
   content: "\e9d8";
