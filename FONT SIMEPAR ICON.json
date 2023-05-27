@@ -1,282 +1,282 @@
 {
   "selection": [
     {
-      "order": 3,
+      "order": 24,
       "name": "fs-general-drop",
       "prevSize": 32
     },
     {
-      "order": 301,
+      "order": 25,
       "name": "fs-weather-frost",
       "prevSize": 32
     },
     {
-      "order": 303,
+      "order": 26,
       "name": "fs-weather-landslide",
       "prevSize": 32
     },
     {
-      "order": 304,
+      "order": 27,
       "name": "fs-weather-lightning-storm",
       "prevSize": 32
     },
     {
-      "order": 305,
+      "order": 28,
       "name": "fs-weather-rainfall",
       "prevSize": 32
     },
     {
-      "order": 302,
+      "order": 29,
       "name": "fs-weather-heat-waves",
       "prevSize": 32
     },
     {
-      "order": 298,
+      "order": 30,
       "name": "fs-weather-cold-waves",
       "prevSize": 32
     },
     {
-      "order": 299,
+      "order": 31,
       "name": "fs-weather-dry",
       "prevSize": 32
     },
     {
-      "order": 297,
+      "order": 32,
       "name": "fs-weather-low-humidity",
       "prevSize": 32
     },
     {
-      "order": 300,
+      "order": 33,
       "name": "fs-general-self-contained",
       "prevSize": 32
     },
     {
-      "order": 14,
+      "order": 34,
       "name": "fs-general-self-contained-circle",
       "prevSize": 32
     },
     {
-      "order": 13,
+      "order": 35,
       "name": "fs-general-spatial-temporal",
       "prevSize": 32
     },
     {
-      "order": 12,
+      "order": 36,
       "name": "fs-general-spatial-temporal-circle",
       "prevSize": 32
     },
     {
-      "order": 11,
+      "order": 37,
       "name": "fs-general-station",
       "prevSize": 32
     },
     {
-      "order": 10,
+      "order": 38,
       "name": "fs-general-station-circle",
       "prevSize": 32
     },
     {
-      "order": 9,
+      "order": 39,
       "name": "fs-general-excellence",
       "prevSize": 32
     },
     {
-      "order": 17,
+      "order": 40,
       "name": "fs-general-excellence-circle",
       "prevSize": 32
     },
     {
-      "order": 18,
+      "order": 41,
       "name": "fs-general-station-management",
       "prevSize": 32
     },
     {
-      "order": 19,
+      "order": 42,
       "name": "fs-general-station-management-circle",
       "prevSize": 32
     },
     {
-      "order": 20,
+      "order": 43,
       "name": "fs-general-station-hydrology",
       "prevSize": 32
     },
     {
-      "order": 21,
+      "order": 44,
       "name": "fs-general-station-hydrology-circle",
       "prevSize": 32
     },
     {
-      "order": 22,
+      "order": 45,
       "name": "fs-general-information-management",
       "prevSize": 32
     },
     {
-      "order": 23,
+      "order": 46,
       "name": "fs-general-information-management-circle",
       "prevSize": 32
     },
     {
-      "order": 24,
+      "order": 47,
       "name": "fs-general-ingestion",
       "prevSize": 32
     },
     {
-      "order": 25,
+      "order": 48,
       "name": "fs-general-ingestion-circle",
       "prevSize": 32
     },
     {
-      "order": 26,
+      "order": 49,
       "name": "fs-general-innovation",
       "prevSize": 32
     },
     {
-      "order": 27,
+      "order": 50,
       "name": "fs-general-innovation-circle",
       "prevSize": 32
     },
     {
-      "order": 8,
+      "order": 51,
       "name": "fs-general-integration",
       "prevSize": 32
     },
     {
-      "order": 7,
+      "order": 52,
       "name": "fs-general-integration-circle",
       "prevSize": 32
     },
     {
-      "order": 6,
+      "order": 53,
       "name": "fs-general-responsive",
       "prevSize": 32
     },
     {
-      "order": 5,
+      "order": 54,
       "name": "fs-general-responsive-circle",
       "prevSize": 32
     },
     {
-      "order": 16,
+      "order": 55,
       "name": "fs-general-user-experience",
       "prevSize": 32
     },
     {
-      "order": 4,
+      "order": 56,
       "name": "fs-general-user-experience-circle",
       "prevSize": 32
     },
     {
-      "order": 3,
+      "order": 57,
       "name": "fs-general-circle-in-thick",
       "prevSize": 32
     },
     {
-      "order": 273,
+      "order": 58,
       "name": "fs-general-circle-in-thin",
       "prevSize": 32
     },
     {
-      "order": 274,
+      "order": 59,
       "name": "fs-general-circle-out-thick",
       "prevSize": 32
     },
     {
-      "order": 275,
+      "order": 60,
       "name": "fs-general-circle-out-thin",
       "prevSize": 32
     },
     {
-      "order": 276,
+      "order": 61,
       "name": "fs-general-circle-thick",
       "prevSize": 32
     },
     {
-      "order": 277,
+      "order": 62,
       "name": "fs-general-circle-thin",
       "prevSize": 32
     },
     {
-      "order": 296,
+      "order": 63,
       "name": "fs-general-hexagon-in-thick",
       "prevSize": 32
     },
     {
-      "order": 280,
+      "order": 64,
       "name": "fs-general-hexagon-in-thin",
       "prevSize": 32
     },
     {
-      "order": 281,
+      "order": 65,
       "name": "fs-general-hexagon-out-thick",
       "prevSize": 32
     },
     {
-      "order": 278,
+      "order": 66,
       "name": "fs-general-hexagon-out-thin",
       "prevSize": 32
     },
     {
-      "order": 282,
+      "order": 67,
       "name": "fs-general-hexagon-thick",
       "prevSize": 32
     },
     {
-      "order": 283,
+      "order": 68,
       "name": "fs-general-hexagon-thin",
       "prevSize": 32
     },
     {
-      "order": 284,
+      "order": 69,
       "name": "fs-general-line-out-thick",
       "prevSize": 32
     },
     {
-      "order": 295,
+      "order": 70,
       "name": "fs-general-line-out-thin",
       "prevSize": 32
     },
     {
-      "order": 294,
+      "order": 71,
       "name": "fs-general-line2-thick",
       "prevSize": 32
     },
     {
-      "order": 287,
+      "order": 72,
       "name": "fs-general-line2-thin",
       "prevSize": 32
     },
     {
-      "order": 288,
+      "order": 73,
       "name": "fs-general-rectangle-in-thick",
       "prevSize": 32
     },
     {
-      "order": 289,
+      "order": 74,
       "name": "fs-general-rectangle-in-thin",
       "prevSize": 32
     },
     {
-      "order": 290,
+      "order": 75,
       "name": "fs-general-rectangle-out-thick",
       "prevSize": 32
     },
     {
-      "order": 293,
+      "order": 76,
       "name": "fs-general-rectangle-out-thin",
       "prevSize": 32
     },
     {
-      "order": 292,
+      "order": 77,
       "name": "fs-general-rectangle-thick",
       "prevSize": 32
     },
     {
-      "order": 291,
+      "order": 78,
       "name": "fs-general-rectangle-thin",
       "prevSize": 32
     },
     {
-      "order": 3,
+      "order": 79,
       "name": "fs-mailsignature-website",
       "prevSize": 32,
       "codes": [
@@ -300,12 +300,12 @@
       ]
     },
     {
-      "order": 4,
+      "order": 80,
       "name": "fs-mailsignature-linkedin",
       "prevSize": 32
     },
     {
-      "order": 5,
+      "order": 81,
       "name": "fs-mailsignature-location",
       "prevSize": 32,
       "codes": [
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "order": 6,
+      "order": 82,
       "name": "fs-mailsignature-mobile",
       "prevSize": 32,
       "codes": [
@@ -324,12 +324,12 @@
       ]
     },
     {
-      "order": 7,
+      "order": 83,
       "name": "fs-mailsignature-phone",
       "prevSize": 32
     },
     {
-      "order": 8,
+      "order": 84,
       "name": "fs-mailsignature-whatsapp",
       "prevSize": 32,
       "codes": [
@@ -338,808 +338,818 @@
       ]
     },
     {
-      "order": 270,
+      "order": 85,
       "name": "fs-general-without-wind-direction",
       "prevSize": 32
     },
     {
-      "order": 271,
+      "order": 86,
       "name": "fs-general-without-wind-direction-2",
       "prevSize": 32
     },
     {
-      "order": 259,
+      "order": 87,
       "name": "fs-general-dashboard-3",
       "prevSize": 32
     },
     {
-      "order": 266,
+      "order": 88,
       "name": "fs-general-meu-climatos-1",
       "prevSize": 32
     },
     {
-      "order": 261,
+      "order": 89,
       "name": "fs-general-meu-climatos-2",
       "prevSize": 32
     },
     {
-      "order": 262,
+      "order": 90,
       "name": "fs-general-meu-climatos-3",
       "prevSize": 32
     },
     {
-      "order": 265,
+      "order": 91,
       "name": "fs-general-simulacao-1",
       "prevSize": 32
     },
     {
-      "order": 264,
+      "order": 92,
       "name": "fs-general-simulacao-2",
       "prevSize": 32
     },
     {
-      "order": 263,
+      "order": 93,
       "name": "fs-general-simulacao-3",
       "prevSize": 32
     },
     {
-      "order": 268,
+      "order": 94,
       "name": "fs-general-becker",
       "prevSize": 32
     },
     {
-      "order": 269,
+      "order": 95,
       "name": "fs-general-becker-2",
       "prevSize": 32
     },
     {
-      "order": 258,
+      "order": 96,
       "name": "fs-weather-simplerain",
       "prevSize": 32
     },
     {
-      "order": 255,
+      "order": 97,
       "name": "fs-general-equal",
       "prevSize": 32
     },
     {
-      "order": 256,
+      "order": 98,
       "name": "fs-general-triangle",
       "prevSize": 32
     },
     {
-      "order": 243,
+      "order": 99,
       "name": "fs-datatype-calculado-1",
       "prevSize": 32
     },
     {
-      "order": 244,
+      "order": 100,
       "name": "fs-datatype-calculado",
       "prevSize": 32
     },
     {
-      "order": 253,
+      "order": 101,
       "name": "fs-datatype-consistido-1",
       "prevSize": 32
     },
     {
-      "order": 246,
+      "order": 102,
       "name": "fs-datatype-consistido",
       "prevSize": 32
     },
     {
-      "order": 247,
+      "order": 103,
       "name": "fs-datatype-medido-1",
       "prevSize": 32
     },
     {
-      "order": 254,
+      "order": 104,
       "name": "fs-datatype-medido",
       "prevSize": 32
     },
     {
-      "order": 249,
+      "order": 105,
       "name": "fs-datatype-reconstruido-1",
       "prevSize": 32
     },
     {
-      "order": 250,
+      "order": 106,
       "name": "fs-datatype-reconstruido",
       "prevSize": 32
     },
     {
-      "order": 251,
+      "order": 107,
       "name": "fs-datatype-sumarizado-1",
       "prevSize": 32
     },
     {
-      "order": 252,
+      "order": 108,
       "name": "fs-datatype-sumarizado",
       "prevSize": 32
     },
     {
-      "order": 242,
+      "order": 109,
       "name": "fs-weather-moon",
       "prevSize": 32
     },
     {
-      "order": 224,
+      "order": 110,
       "name": "fs-weather-cloud-day-hail",
       "prevSize": 32
     },
     {
-      "order": 225,
+      "order": 111,
       "name": "fs-weather-cloud-day-lightning",
       "prevSize": 32
     },
     {
-      "order": 226,
+      "order": 112,
       "name": "fs-weather-cloud-day-rain",
       "prevSize": 32
     },
     {
-      "order": 227,
+      "order": 113,
       "name": "fs-weather-cloud-day-snow",
       "prevSize": 32
     },
     {
-      "order": 228,
+      "order": 114,
       "name": "fs-weather-cloud-day-storm",
       "prevSize": 32
     },
     {
-      "order": 229,
+      "order": 115,
       "name": "fs-weather-cloud-day-windy",
       "prevSize": 32
     },
     {
-      "order": 230,
+      "order": 116,
       "name": "fs-weather-cloud-moon",
       "prevSize": 32
     },
     {
-      "order": 231,
+      "order": 117,
       "name": "fs-weather-cloud-night-hail",
       "prevSize": 32
     },
     {
-      "order": 232,
+      "order": 118,
       "name": "fs-weather-cloud-night-rain",
       "prevSize": 32
     },
     {
-      "order": 233,
+      "order": 119,
       "name": "fs-weather-cloud-night-snow",
       "prevSize": 32
     },
     {
-      "order": 234,
+      "order": 120,
       "name": "fs-weather-cloud-night-storm",
       "prevSize": 32
     },
     {
-      "order": 235,
+      "order": 121,
       "name": "fs-weather-cloud-night-windy",
       "prevSize": 32
     },
     {
-      "order": 236,
+      "order": 122,
       "name": "fs-weather-cloud-simple",
       "prevSize": 32
     },
     {
-      "order": 237,
+      "order": 123,
       "name": "fs-weather-cloud-sun",
       "prevSize": 32
     },
     {
-      "order": 240,
+      "order": 124,
       "name": "fs-weather-sun",
       "prevSize": 32
     },
     {
-      "order": 219,
+      "order": 125,
       "name": "fs-stationtype-agrometeorologica",
       "prevSize": 32
     },
     {
-      "order": 220,
+      "order": 126,
       "name": "fs-stationtype-hidrologica",
       "prevSize": 32
     },
     {
-      "order": 221,
+      "order": 127,
       "name": "fs-stationtype-hidrometeorologica",
       "prevSize": 32
     },
     {
-      "order": 222,
+      "order": 128,
       "name": "fs-stationtype-meteorologica",
       "prevSize": 32
     },
     {
-      "order": 223,
+      "order": 129,
       "name": "fs-stationtype-pluviometrica",
       "prevSize": 32
     },
     {
-      "order": 83,
+      "order": 130,
       "name": "fs-variable-evaporation",
       "prevSize": 32
     },
     {
-      "order": 84,
+      "order": 131,
       "name": "fs-variable-bare-soil-temperature",
       "prevSize": 32
     },
     {
-      "order": 85,
+      "order": 132,
       "name": "fs-variable-cell-signal",
       "prevSize": 32
     },
     {
-      "order": 86,
+      "order": 133,
       "name": "fs-variable-energia-gerada",
       "prevSize": 32
     },
     {
-      "order": 88,
+      "order": 134,
       "name": "fs-variable-evapotranspiration",
       "prevSize": 32
     },
     {
-      "order": 87,
+      "order": 135,
       "name": "fs-variable-flow",
       "prevSize": 32
     },
     {
-      "order": 89,
+      "order": 136,
       "name": "fs-variable-grass-soil-temperature",
       "prevSize": 32
     },
     {
-      "order": 90,
+      "order": 137,
       "name": "fs-variable-grassland-soil-temperature",
       "prevSize": 32
     },
     {
-      "order": 91,
+      "order": 138,
       "name": "fs-variable-leaf-wet",
       "prevSize": 32
     },
     {
-      "order": 92,
+      "order": 139,
       "name": "fs-variable-level",
       "prevSize": 32
     },
     {
-      "order": 93,
+      "order": 140,
       "name": "fs-variable-lightning-feature",
       "prevSize": 32
     },
     {
-      "order": 94,
+      "order": 141,
       "name": "fs-variable-lightning-altitude",
       "prevSize": 32
     },
     {
-      "order": 95,
+      "order": 142,
       "name": "fs-variable-lightning-elipse-angle",
       "prevSize": 32
     },
     {
-      "order": 96,
+      "order": 143,
       "name": "fs-variable-lightning-elipse-lenght-horizontal",
       "prevSize": 32
     },
     {
-      "order": 98,
+      "order": 144,
       "name": "fs-variable-lightning-elipse-lenght-vertical",
       "prevSize": 32
     },
     {
-      "order": 97,
+      "order": 145,
       "name": "fs-variable-lightning-peak-current",
       "prevSize": 32
     },
     {
-      "order": 99,
+      "order": 146,
       "name": "fs-variable-measure-system-feature",
       "prevSize": 32
     },
     {
-      "order": 101,
+      "order": 147,
       "name": "fs-variable-nivel-agua-jusante",
       "prevSize": 32
     },
     {
-      "order": 100,
+      "order": 148,
       "name": "fs-variable-nivel-agua-montante",
       "prevSize": 32
     },
     {
-      "order": 102,
+      "order": 149,
       "name": "fs-variable-no-variable",
       "prevSize": 32
     },
     {
-      "order": 103,
+      "order": 150,
       "name": "fs-variable-percentual-volume-espera",
       "prevSize": 32
     },
     {
-      "order": 104,
+      "order": 151,
       "name": "fs-variable-percentual-volume-util",
       "prevSize": 32
     },
     {
-      "order": 105,
+      "order": 152,
       "name": "fs-variable-posicao-operacao-eixo-x",
       "prevSize": 32
     },
     {
-      "order": 106,
+      "order": 153,
       "name": "fs-variable-posicao-operacao-eixo-y",
       "prevSize": 32
     },
     {
-      "order": 107,
+      "order": 154,
       "name": "fs-variable-rate-rise-waveform",
       "prevSize": 32
     },
     {
-      "order": 108,
+      "order": 155,
       "name": "fs-variable-regime-alerta-eixo-x",
       "prevSize": 32
     },
     {
-      "order": 109,
+      "order": 156,
       "name": "fs-variable-regime-alerta-eixo-y",
       "prevSize": 32
     },
     {
-      "order": 110,
+      "order": 157,
       "name": "fs-variable-soil-humidity",
       "prevSize": 32
     },
     {
-      "order": 111,
+      "order": 158,
       "name": "fs-variable-soil-temperature",
       "prevSize": 32
     },
     {
-      "order": 112,
+      "order": 159,
       "name": "fs-variable-stn-voltage",
       "prevSize": 32
     },
     {
-      "order": 113,
+      "order": 160,
       "name": "fs-variable-time-feature-waveform",
       "prevSize": 32
     },
     {
-      "order": 213,
+      "order": 161,
       "name": "fs-variable-urban-soil-temperature",
       "prevSize": 32
     },
     {
-      "order": 115,
+      "order": 162,
       "name": "fs-variable-visibility",
       "prevSize": 32
     },
     {
-      "order": 73,
+      "order": 163,
       "name": "fs-general-eraser-pencil",
       "prevSize": 32
     },
     {
-      "order": 74,
+      "order": 164,
       "name": "fs-general-eraser-text",
       "prevSize": 32
     },
     {
-      "order": 75,
+      "order": 165,
       "name": "fs-general-expand",
       "prevSize": 32
     },
     {
-      "order": 77,
+      "order": 166,
       "name": "fs-general-right-arrow",
       "prevSize": 32
     },
     {
-      "order": 76,
+      "order": 167,
       "name": "fs-general-up-arrow",
       "prevSize": 32
     },
     {
-      "order": 78,
+      "order": 168,
       "name": "fs-general-right-pointer",
       "prevSize": 32
     },
     {
-      "order": 79,
+      "order": 169,
       "name": "fs-general-down-arrow",
       "prevSize": 32
     },
     {
-      "order": 80,
+      "order": 170,
       "name": "fs-general-line-thick",
       "prevSize": 32
     },
     {
-      "order": 81,
+      "order": 171,
       "name": "fs-general-polygon-thick",
       "prevSize": 32
     },
     {
-      "order": 82,
+      "order": 172,
       "name": "fs-general-transversal-arrow",
       "prevSize": 32
     },
     {
-      "order": 62,
+      "order": 173,
       "name": "fs-general-text",
       "prevSize": 32
     },
     {
-      "order": 61,
+      "order": 174,
       "name": "fs-general-eraser",
       "prevSize": 32
     },
     {
-      "order": 60,
+      "order": 175,
       "name": "fs-general-pencil",
       "prevSize": 32
     },
     {
-      "order": 30,
+      "order": 176,
       "name": "fs-general-forecast",
       "prevSize": 32
     },
     {
-      "order": 29,
+      "order": 177,
       "name": "fs-general-caligraphy-pen",
       "prevSize": 32
     },
     {
-      "order": 28,
+      "order": 178,
       "name": "fs-general-radar",
       "prevSize": 32
     },
     {
-      "order": 19,
+      "order": 179,
       "name": "fs-general-target",
       "prevSize": 32
     },
     {
-      "order": 20,
+      "order": 180,
       "name": "fs-general-speed-1x",
       "prevSize": 32
     },
     {
-      "order": 18,
+      "order": 181,
       "name": "fs-general-speed-2x",
       "prevSize": 32
     },
     {
-      "order": 21,
+      "order": 182,
       "name": "fs-general-history-3h",
       "prevSize": 32
     },
     {
-      "order": 22,
+      "order": 183,
       "name": "fs-general-speed-3x",
       "prevSize": 32
     },
     {
-      "order": 23,
+      "order": 184,
       "name": "fs-general-history-12h",
       "prevSize": 32
     },
     {
-      "order": 24,
+      "order": 185,
       "name": "fs-general-history-24h",
       "prevSize": 32
     },
     {
-      "order": 26,
+      "order": 186,
       "name": "fs-general-right",
       "prevSize": 32
     },
     {
-      "order": 27,
+      "order": 187,
       "name": "fs-general-left",
       "prevSize": 32
     },
     {
-      "order": 30,
+      "order": 188,
       "name": "fs-general-ruler",
       "prevSize": 32
     },
     {
-      "order": 32,
+      "order": 189,
       "name": "fs-general-clock-circle",
       "prevSize": 32
     },
     {
-      "order": 33,
+      "order": 190,
       "name": "fs-general-suspension-points",
       "prevSize": 32
     },
     {
-      "order": 25,
+      "order": 191,
       "name": "fs-state-es",
       "prevSize": 32
     },
     {
-      "order": 23,
+      "order": 192,
       "name": "fs-state-mt",
       "prevSize": 32
     },
     {
-      "order": 24,
+      "order": 193,
       "name": "fs-state-pr",
       "prevSize": 32
     },
     {
-      "order": 59,
+      "order": 194,
       "name": "fs-general-layer",
       "prevSize": 32
     },
     {
-      "order": 56,
+      "order": 195,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-weather-radar"
     },
     {
-      "order": 54,
+      "order": 196,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-chart-trend-down"
     },
     {
-      "order": 53,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-chart-area"
-    },
-    {
-      "order": 52,
+      "order": 198,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-chart-trend-up"
     },
     {
-      "order": 51,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-chart-distance"
-    },
-    {
-      "order": 50,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-general-lightning"
-    },
-    {
-      "order": 49,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-chart-areaspline"
-    },
-    {
-      "order": 48,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-leaf-wet"
-    },
-    {
-      "order": 47,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-level"
-    },
-    {
-      "order": 46,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-preciptation"
-    },
-    {
-      "order": 45,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-chart-bar"
-    },
-    {
-      "order": 44,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-pressure"
-    },
-    {
-      "order": 43,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-temperature"
-    },
-    {
-      "order": 42,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-humidity"
-    },
-    {
-      "order": 41,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-solar-radiation"
-    },
-    {
-      "order": 40,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-wind"
-    },
-    {
-      "order": 39,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-wind-direction"
-    },
-    {
-      "order": 58,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-general-dashboard"
-    },
-    {
-      "order": 38,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-general-dashboard2"
-    },
-    {
-      "order": 37,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-ampacity2"
-    },
-    {
-      "order": 36,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-chart-line"
-    },
-    {
-      "order": 35,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-weather-ampacity"
-    },
-    {
-      "order": 34,
-      "ligatures": "",
-      "prevSize": 32,
-      "name": "fs-general-line"
-    },
-    {
-      "order": 33,
+      "order": 224,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-chart-point"
     },
     {
-      "order": 32,
+      "order": 21,
       "ligatures": "",
       "prevSize": 32,
-      "name": "fs-general-polygon"
+      "name": "fs-chart-line"
     },
     {
-      "order": 31,
+      "order": 240,
+      "name": "fs-chart-step",
+      "prevSize": 32
+    },
+    {
+      "order": 210,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-chart-spline"
     },
     {
-      "order": 30,
+      "order": 197,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-chart-area"
+    },
+    {
+      "order": 243,
+      "name": "fs-chart-area-step",
+      "prevSize": 32
+    },
+    {
+      "order": 217,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-chart-areaspline"
+    },
+    {
+      "order": 199,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-chart-distance"
+    },
+    {
+      "order": 200,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-general-lightning"
+    },
+    {
+      "order": 218,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-leaf-wet"
+    },
+    {
+      "order": 219,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-level"
+    },
+    {
+      "order": 220,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-preciptation"
+    },
+    {
+      "order": 221,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-chart-bar"
+    },
+    {
+      "order": 201,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-pressure"
+    },
+    {
+      "order": 202,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-temperature"
+    },
+    {
+      "order": 203,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-humidity"
+    },
+    {
+      "order": 204,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-solar-radiation"
+    },
+    {
+      "order": 205,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-wind"
+    },
+    {
+      "order": 206,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-wind-direction"
+    },
+    {
+      "order": 207,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-general-dashboard"
+    },
+    {
+      "order": 208,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-general-dashboard2"
+    },
+    {
+      "order": 209,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-ampacity2"
+    },
+    {
+      "order": 222,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-weather-ampacity"
+    },
+    {
+      "order": 223,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-general-line"
+    },
+    {
+      "order": 225,
+      "ligatures": "",
+      "prevSize": 32,
+      "name": "fs-general-polygon"
+    },
+    {
+      "order": 211,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-weather-common"
     },
     {
-      "order": 29,
+      "order": 212,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-weather-hydro"
     },
     {
-      "order": 28,
+      "order": 213,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-weather-station"
     },
     {
-      "order": 27,
+      "order": 214,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-weather-lightning"
     },
     {
-      "order": 26,
+      "order": 215,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-logo-superior"
     },
     {
-      "order": 25,
+      "order": 216,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-logo-inferior"
     },
     {
-      "order": 24,
+      "order": 226,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-1"
     },
     {
-      "order": 23,
+      "order": 227,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-2"
     },
     {
-      "order": 22,
+      "order": 228,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-3"
     },
     {
-      "order": 21,
+      "order": 229,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-4"
     },
     {
-      "order": 20,
+      "order": 230,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-5"
     },
     {
-      "order": 19,
+      "order": 231,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-6"
     },
     {
-      "order": 18,
+      "order": 232,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-7"
     },
     {
-      "order": 17,
+      "order": 233,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-8"
     },
     {
-      "order": 16,
+      "order": 234,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-9"
     },
     {
-      "order": 15,
+      "order": 236,
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-10"
     },
     {
-      "order": 57,
+      "order": 235,
       "ligatures": "",
       "prevSize": 32,
       "name": "fs-animated-signal-lvl-11"
@@ -1148,10 +1158,10 @@
   "metadata": {
     "name": "FONT SIMEPAR ICON",
     "importSize": {
-      "width": 1000,
-      "height": 1000
+      "width": 34,
+      "height": 32
     },
-    "iconsHash": 1267389946
+    "iconsHash": 2003846743
   },
   "height": 1024,
   "prevSize": 32,
@@ -1160,11 +1170,11 @@
       "paths": [
         "M859.156 646.943c0-230.554-347.156-636.703-347.156-636.703-922.982 1011.692 321.894 1328.456 347.156 636.703z"
       ],
-      "grid": 0,
       "tags": [
         "fs-general-drop"
       ],
-      "defaultCode": 59648
+      "defaultCode": 59648,
+      "grid": 0
     },
     {
       "paths": [
@@ -3605,6 +3615,68 @@
     },
     {
       "paths": [
+        "M1210.561 996.36v0c0 15.202-12.432 27.64-27.64 27.64h-1140.080c-17.817 0-42.841-13.794-42.841-31.782v-964.579c0-15.202 12.438-27.64 27.64-27.64v0c15.202 0 27.64 12.438 27.64 27.64v941.087h1127.647c15.202 0 27.634 12.432 27.634 27.634zM193.472 704.78h63.569c36.483 0 66.333 29.85 66.333 66.333v69.096c0 36.483-29.85 66.333-66.333 66.333h-63.569c-36.483 0-66.333-29.85-66.333-66.333v-69.096c0-36.488 29.845-66.333 66.333-66.333zM439.454 480.905h63.569c36.483 0 66.333 29.85 66.333 66.333v295.729c0 36.488-29.85 66.333-66.333 66.333h-63.569c-36.483 0-66.333-29.85-66.333-66.333v-295.723c0-36.488 29.845-66.339 66.333-66.339zM939.702 384.174h63.569c36.483 0 66.333 29.85 66.333 66.333v392.459c0 36.483-29.85 66.333-66.333 66.333h-63.569c-36.483 0-66.333-29.85-66.333-66.333v-392.459c0.006-36.483 29.85-66.333 66.333-66.333zM685.43 583.167h63.569c36.483 0 66.333 29.85 66.333 66.333v193.466c0 36.483-29.85 66.333-66.333 66.333h-63.569c-36.483 0-66.333-29.85-66.333-66.333v-193.466c0.006-36.483 29.85-66.333 66.333-66.333zM1025.385 71.86l-185.176 27.64 64.886 58.504-205.876 252.614-203.995-190.942c-12.666-16.694-37.092-26.546-54.841-10.068l-308.167 286.054c-13.652 12.672-13.167 34.711 0 47.878v0c13.167 13.167 34.232 12.672 47.884 0l282.276-262.021 220.337 206.235c18.022 16.871 43.457 3.521 54.111-16.649l218.365-267.941 53.616 48.345 16.58-179.649z"
+      ],
+      "width": 1211,
+      "tags": [
+        "fs-chart-trend-up"
+      ],
+      "defaultCode": 59841,
+      "grid": 0
+    },
+    {
+      "paths": [
+        "M212.057 676.933c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM376.989 535.562c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM541.922 582.686c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM706.855 441.314c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM895.35 347.067c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM1060.283 464.876c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM0-6.36h70.686v966.035h1013.159v70.686h-1083.845z"
+      ],
+      "width": 1084,
+      "tags": [
+        "fs-chart-point"
+      ],
+      "defaultCode": 59861,
+      "grid": 0
+    },
+    {
+      "paths": [
+        "M0 0.459h62.176v962.32h1021.67v60.763h-1083.846zM161.093 362.212c-5.652-8.479-4.239-19.783 4.239-25.436s19.783-4.239 25.436 4.239l224.683 316.534 243.053-186.529c5.652-4.239 14.131-4.239 19.783 0v0l285.446 176.637c8.479 5.652 11.305 16.957 5.652 25.436-4.239 8.479-15.544 11.305-24.023 5.652l-275.554-170.985-247.292 189.355c-8.479 7.065-19.783 4.239-25.436-4.239l-235.987-330.665z"
+      ],
+      "width": 1084,
+      "tags": [
+        "fs-chart-line"
+      ],
+      "defaultCode": 59858,
+      "grid": 0
+    },
+    {
+      "paths": [
+        "M2.189-0.203h62.176v962.335h1021.664v60.769h-1083.84z",
+        "M102.978 419.141h241.89v36.283h-241.89v-36.283z",
+        "M809.76 544.072h241.89v36.283h-241.89v-36.283z",
+        "M344.518 178.105h241.89v36.283h-241.89v-36.283z",
+        "M568.204 785.126h241.89v36.283h-241.89v-36.283z",
+        "M344.437 195.665h36.283v259.685h-36.283v-259.685z",
+        "M809.743 580.228h36.283v241.145h-36.283v-241.145z",
+        "M568.229 178.019h36.283v608.082h-36.283v-608.082z"
+      ],
+      "width": 1088,
+      "grid": 0,
+      "tags": [
+        "fs-chart-step"
+      ],
+      "defaultCode": 59704
+    },
+    {
+      "paths": [
+        "M0 0.291h61.714v961.704h1022.132v61.714h-1083.846zM173.57 761.426c-2.571 10.286-14.143 15.428-23.143 11.571s-14.143-14.143-11.571-23.143c110.57-311.14 205.712-383.139 293.14-352.282 66.856 24.428 123.427 106.713 179.998 188.998 51.428 77.142 102.856 151.713 152.998 164.57 70.714 19.286 149.141-86.142 251.997-482.138 2.571-9 12.857-15.428 21.857-12.857 10.286 2.571 15.428 12.857 12.857 21.857-109.285 424.281-204.426 532.28-295.711 509.138-62.999-16.714-118.284-97.713-174.855-179.998-52.714-77.142-105.427-155.57-160.713-174.855-68.142-24.428-146.57 45-246.855 329.139z"
+      ],
+      "width": 1084,
+      "tags": [
+        "fs-chart-spline"
+      ],
+      "defaultCode": 59863,
+      "grid": 0
+    },
+    {
+      "paths": [
         "M1074.031 314.165v614.697h-979.277v-327.839l189.355-90.438 149.788 148.375 93.264-154.028 100.33 145.549 142.723-117.287 110.222 97.504zM0.077 0.458h62.176v962.32h1021.67v60.763h-1083.846z"
       ],
       "width": 1084,
@@ -3616,13 +3688,31 @@
     },
     {
       "paths": [
-        "M1210.561 996.36v0c0 15.202-12.432 27.64-27.64 27.64h-1140.080c-17.817 0-42.841-13.794-42.841-31.782v-964.579c0-15.202 12.438-27.64 27.64-27.64v0c15.202 0 27.64 12.438 27.64 27.64v941.087h1127.647c15.202 0 27.634 12.432 27.634 27.634zM193.472 704.78h63.569c36.483 0 66.333 29.85 66.333 66.333v69.096c0 36.483-29.85 66.333-66.333 66.333h-63.569c-36.483 0-66.333-29.85-66.333-66.333v-69.096c0-36.488 29.845-66.333 66.333-66.333zM439.454 480.905h63.569c36.483 0 66.333 29.85 66.333 66.333v295.729c0 36.488-29.85 66.333-66.333 66.333h-63.569c-36.483 0-66.333-29.85-66.333-66.333v-295.723c0-36.488 29.845-66.339 66.333-66.339zM939.702 384.174h63.569c36.483 0 66.333 29.85 66.333 66.333v392.459c0 36.483-29.85 66.333-66.333 66.333h-63.569c-36.483 0-66.333-29.85-66.333-66.333v-392.459c0.006-36.483 29.85-66.333 66.333-66.333zM685.43 583.167h63.569c36.483 0 66.333 29.85 66.333 66.333v193.466c0 36.483-29.85 66.333-66.333 66.333h-63.569c-36.483 0-66.333-29.85-66.333-66.333v-193.466c0.006-36.483 29.85-66.333 66.333-66.333zM1025.385 71.86l-185.176 27.64 64.886 58.504-205.876 252.614-203.995-190.942c-12.666-16.694-37.092-26.546-54.841-10.068l-308.167 286.054c-13.652 12.672-13.167 34.711 0 47.878v0c13.167 13.167 34.232 12.672 47.884 0l282.276-262.021 220.337 206.235c18.022 16.871 43.457 3.521 54.111-16.649l218.365-267.941 53.616 48.345 16.58-179.649z"
+        "M1.497 0.38h62.176v962.335h1021.664v60.769h-1083.84z",
+        "M102.287 419.723h316.869v508.126h-316.869v-508.126z",
+        "M803.919 544.655h241.89v382.633h-241.89v-382.633z",
+        "M343.827 178.688h241.89v749.24h-241.89v-749.24z",
+        "M513.457 785.709h356.975v141.883h-356.975v-141.883z",
+        "M343.746 196.248h36.283v259.685h-36.283v-259.685z",
+        "M809.051 580.811h36.283v241.145h-36.283v-241.145z",
+        "M567.537 178.602h36.283v608.082h-36.283v-608.082z"
       ],
-      "width": 1211,
+      "width": 1088,
+      "grid": 0,
       "tags": [
-        "fs-chart-trend-up"
+        "fs-chart-area-step"
       ],
-      "defaultCode": 59841,
+      "defaultCode": 59705
+    },
+    {
+      "paths": [
+        "M88.399 937.339v-349.752c97.367-134.52 180.641-75.587 248.542-10.249 115.303 111.459 126.833 147.331 408.684-66.619 102.491-78.15 147.331-244.698 303.631-179.36 6.406 5.125 12.811 10.249 17.936 16.655 0 125.552 0 462.492 0 589.325h-978.792zM0-0.457h61.495v962.137h1022.351v62.776h-1083.846z"
+      ],
+      "width": 1084,
+      "tags": [
+        "fs-chart-areaspline"
+      ],
+      "defaultCode": 59844,
       "grid": 0
     },
     {
@@ -3644,17 +3734,6 @@
         "fs-general-lightning"
       ],
       "defaultCode": 59843,
-      "grid": 0
-    },
-    {
-      "paths": [
-        "M88.399 937.339v-349.752c97.367-134.52 180.641-75.587 248.542-10.249 115.303 111.459 126.833 147.331 408.684-66.619 102.491-78.15 147.331-244.698 303.631-179.36 6.406 5.125 12.811 10.249 17.936 16.655 0 125.552 0 462.492 0 589.325h-978.792zM0-0.457h61.495v962.137h1022.351v62.776h-1083.846z"
-      ],
-      "width": 1084,
-      "tags": [
-        "fs-chart-areaspline"
-      ],
-      "defaultCode": 59844,
       "grid": 0
     },
     {
@@ -3801,17 +3880,6 @@
     },
     {
       "paths": [
-        "M0 0.459h62.176v962.32h1021.67v60.763h-1083.846zM161.093 362.212c-5.652-8.479-4.239-19.783 4.239-25.436s19.783-4.239 25.436 4.239l224.683 316.534 243.053-186.529c5.652-4.239 14.131-4.239 19.783 0v0l285.446 176.637c8.479 5.652 11.305 16.957 5.652 25.436-4.239 8.479-15.544 11.305-24.023 5.652l-275.554-170.985-247.292 189.355c-8.479 7.065-19.783 4.239-25.436-4.239l-235.987-330.665z"
-      ],
-      "width": 1084,
-      "tags": [
-        "fs-chart-line"
-      ],
-      "defaultCode": 59858,
-      "grid": 0
-    },
-    {
-      "paths": [
         "M812.786 351.654c9.161 0 16.587-7.425 16.587-16.587v-70.773c0-0.615-0.040-1.221-0.104-1.818-0.009-0.082-0.027-0.164-0.038-0.245-0.086-0.692-0.221-1.369-0.389-2.033-0.033-0.135-0.066-0.268-0.102-0.4-0.206-0.734-0.456-1.451-0.756-2.139-0.029-0.066-0.064-0.128-0.093-0.192-0.292-0.644-0.624-1.261-0.991-1.856-0.069-0.113-0.133-0.228-0.206-0.338-0.405-0.621-0.849-1.214-1.331-1.774-0.097-0.115-0.203-0.223-0.305-0.336-0.498-0.548-1.022-1.068-1.588-1.546-0.024-0.020-0.042-0.044-0.066-0.064l-0.058-0.049c-0.007-0.004-0.013-0.011-0.018-0.015l-210.754-175.628-51.919-69.225c-3.134-4.178-8.048-6.635-13.27-6.635h-70.773c-5.222 0-10.136 2.457-13.27 6.635l-51.917 69.223-210.754 175.628c-0.007 0.004-0.013 0.011-0.018 0.015l-0.058 0.049c-0.024 0.020-0.042 0.044-0.066 0.064-0.566 0.478-1.090 1-1.588 1.546-0.102 0.113-0.206 0.221-0.305 0.336-0.482 0.56-0.927 1.152-1.331 1.774-0.073 0.111-0.137 0.226-0.206 0.338-0.367 0.595-0.701 1.212-0.991 1.856-0.029 0.064-0.064 0.126-0.093 0.192-0.301 0.69-0.548 1.404-0.756 2.139-0.038 0.133-0.069 0.265-0.102 0.4-0.168 0.663-0.303 1.34-0.389 2.033-0.011 0.082-0.029 0.164-0.038 0.245-0.066 0.599-0.106 1.205-0.106 1.82v70.773c0 9.163 7.427 16.587 16.587 16.587s16.587-7.425 16.587-16.587v-54.186h179.145v152.576l-206.275 171.895c-0.007 0.004-0.013 0.011-0.018 0.015l-0.058 0.049c-0.024 0.020-0.042 0.044-0.066 0.064-0.566 0.478-1.090 1-1.588 1.546-0.102 0.113-0.206 0.221-0.305 0.336-0.482 0.56-0.927 1.152-1.331 1.774-0.073 0.111-0.137 0.226-0.206 0.338-0.367 0.595-0.701 1.212-0.991 1.856-0.029 0.064-0.064 0.126-0.093 0.192-0.301 0.69-0.548 1.404-0.756 2.139-0.038 0.133-0.069 0.265-0.102 0.4-0.168 0.663-0.303 1.34-0.389 2.033-0.011 0.082-0.029 0.164-0.038 0.245-0.064 0.599-0.104 1.205-0.104 1.82v70.773c0 9.163 7.427 16.587 16.587 16.587s16.587-7.425 16.587-16.587v-54.186h172.050l-129.482 356.078h-23.769c-9.161 0-16.587 7.425-16.587 16.587s7.427 16.587 16.587 16.587h88.467c9.161 0 16.587-7.425 16.587-16.587s-7.427-16.587-16.587-16.587h-18.076l195.009-238.344 195.009 238.344h-0.383c-9.161 0-16.587 7.425-16.587 16.587s7.427 16.587 16.587 16.587h88.467c9.161 0 16.587-7.425 16.587-16.587s-7.427-16.587-16.587-16.587h-41.462l-129.482-356.078h172.050v54.186c0 9.163 7.427 16.587 16.587 16.587s16.587-7.425 16.587-16.587v-70.773c0-0.615-0.040-1.221-0.104-1.818-0.009-0.082-0.027-0.164-0.038-0.245-0.086-0.692-0.221-1.369-0.389-2.033-0.033-0.135-0.066-0.268-0.102-0.4-0.206-0.734-0.456-1.451-0.756-2.139-0.029-0.066-0.064-0.128-0.093-0.192-0.292-0.644-0.624-1.261-0.991-1.856-0.069-0.113-0.133-0.228-0.206-0.338-0.405-0.621-0.849-1.214-1.331-1.774-0.097-0.115-0.203-0.223-0.305-0.336-0.498-0.548-1.022-1.068-1.588-1.546-0.024-0.020-0.042-0.044-0.066-0.064l-0.058-0.049c-0.007-0.004-0.013-0.011-0.018-0.015l-206.275-171.897v-152.576h179.145v54.186c0 9.163 7.427 16.587 16.587 16.587zM488.541 175.827l-48.42 48.42v-96.84l48.42 48.42zM463.58 103.948h96.84l-48.42 48.42-48.42-48.42zM463.58 247.706l48.42-48.42 48.42 48.42h-96.84zM560.42 280.881l-48.42 48.42-48.42-48.42h96.84zM488.541 352.76l-48.42 48.42v-96.84l48.42 48.42zM463.58 424.639l48.42-48.42 48.42 48.42h-96.84zM560.42 457.814l-48.42 48.42-48.42-48.42h96.84zM488.541 529.693l-48.42 48.42v-96.84l48.42 48.42zM512 553.152l48.42 48.42h-96.84l48.42-48.42zM565.463 634.747l-53.463 65.344-53.463-65.344h106.925zM535.459 529.693l48.42-48.42v96.84l-48.42-48.42zM535.459 352.76l48.42-48.42v96.84l-48.42-48.42zM535.459 175.827l48.42-48.42v96.84l-48.42-48.42zM484.907 33.175h54.186l28.199 37.598h-110.583l28.199-37.598zM406.946 122.776v124.93h-149.918l149.918-124.93zM406.946 476.642v124.93h-149.918l149.918-124.93zM330.902 921.432l98.255-270.203 61.409 75.057-159.664 195.146zM533.431 726.286l61.409-75.057 98.255 270.203-159.664-195.146zM617.054 601.572v-124.93l149.918 124.93h-149.918zM617.054 247.706v-124.93l149.918 124.93h-149.918z"
       ],
       "tags": [
@@ -3832,34 +3900,12 @@
     },
     {
       "paths": [
-        "M212.057 676.933c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM376.989 535.562c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM541.922 582.686c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM706.855 441.314c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM895.35 347.067c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM1060.283 464.876c0 26.026-21.098 47.124-47.124 47.124s-47.124-21.098-47.124-47.124c0-26.026 21.098-47.124 47.124-47.124s47.124 21.098 47.124 47.124zM0-6.36h70.686v966.035h1013.159v70.686h-1083.845z"
-      ],
-      "width": 1084,
-      "tags": [
-        "fs-chart-point"
-      ],
-      "defaultCode": 59861,
-      "grid": 0
-    },
-    {
-      "paths": [
         "M957.006 0l-318.756 285.196-571.271-97.933 269.201 585.901c-57.403 3.061-101.229 36.244-101.229 78.17 0 44.014 48.268 78.484 109.878 78.484 22.886 0 43.935-4.788 61.359-13.013 6.797 6.185 17.125 19.558 17.125 44.406 0 28.898-13.452 31.221-15.697 31.394v31.394c16.293 0 47.091-13.123 47.091-62.787 0-30.64-11.443-50.418-22.117-62.254 13.876-13.138 22.117-29.557 22.117-47.624 0-8.068-1.648-15.807-4.678-23.090l506.977-153.625v-674.619zM266.36 851.335c0-25.523 35.946-47.091 78.484-47.091s78.484 21.567 78.484 47.091-35.946 47.091-78.484 47.091-78.484-21.567-78.484-47.091zM925.612 651.325l-495.361 150.109c-14.645-12.856-35.020-22.133-58.549-26.229l-251.307-546.941 527.508 90.445 277.709-248.513v581.129z"
       ],
       "tags": [
         "fs-general-polygon"
       ],
       "defaultCode": 59862,
-      "grid": 0
-    },
-    {
-      "paths": [
-        "M0 0.291h61.714v961.704h1022.132v61.714h-1083.846zM173.57 761.426c-2.571 10.286-14.143 15.428-23.143 11.571s-14.143-14.143-11.571-23.143c110.57-311.14 205.712-383.139 293.14-352.282 66.856 24.428 123.427 106.713 179.998 188.998 51.428 77.142 102.856 151.713 152.998 164.57 70.714 19.286 149.141-86.142 251.997-482.138 2.571-9 12.857-15.428 21.857-12.857 10.286 2.571 15.428 12.857 12.857 21.857-109.285 424.281-204.426 532.28-295.711 509.138-62.999-16.714-118.284-97.713-174.855-179.998-52.714-77.142-105.427-155.57-160.713-174.855-68.142-24.428-146.57 45-246.855 329.139z"
-      ],
-      "width": 1084,
-      "tags": [
-        "fs-chart-spline"
-      ],
-      "defaultCode": 59863,
       "grid": 0
     },
     {
@@ -4093,6 +4139,7 @@
   "colorThemeIdx": 1,
   "preferences": {
     "showGlyphs": true,
+    "showCodes": true,
     "showQuickUse": true,
     "showQuickUse2": true,
     "showSVGs": true,
@@ -4114,11 +4161,10 @@
       "useClassSelector": true,
       "color": 0,
       "bgColor": 16777215,
-      "classSelector": ".icon",
-      "name": "icomoon"
+      "name": "icomoon",
+      "classSelector": ".icon"
     },
     "historySize": 50,
-    "showCodes": true,
     "gridSize": 16
   },
   "IcoMoonType": "icon-set"
